@@ -8,6 +8,7 @@
   href: "/members"
 
 - title: "projects"
+  url: "/projects"
   subcategories:
     - subtitle: "Verifiable Autonomy"
       subhref: "/projects/verifiableAutonomy.html"

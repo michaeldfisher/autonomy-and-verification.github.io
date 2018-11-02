@@ -1,8 +1,5 @@
 - title: "feed"
-  href: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme/atom.xml"
-
-- title: "googleplus"
-  href: "#"
+  href: ""
 
 - title: "facebook"
   href: "#"
@@ -17,4 +14,4 @@
   href: "https://github.com/autonomy-and-verification-uol"
 
 - title: "linkedin"
-  href: "https://www.linkedin.com/in/ctarwater"
+  href: ""

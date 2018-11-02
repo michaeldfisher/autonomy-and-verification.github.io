@@ -7,8 +7,10 @@ keywords: autonomous systems, robotics, artificial intelligence, formal verifica
 description: The Autonomy and Verification Laboratory at the University of Liverpool, UK
 
 # Only use this if you are serving your site via Github Pages
-github:
-  url: "https://autonomy-and-verification-uol.github.io/"
+#github:
+  #url: "https://autonomy-and-verification-uol.github.io/"
+
+url:  http://localhost:4000
 
 header: yes
 header_sm: images/ahston-small.png
