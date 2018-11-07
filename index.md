@@ -15,6 +15,4 @@ The laboratory is lead by [Professor Michael Fisher](https://cgi.csc.liv.ac.uk/~
 </section>
 
 
-{% include asides/recent_posts.html %}
-
 </article>
