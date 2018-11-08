@@ -17,7 +17,7 @@ title: Members
 *  Dr Emily Collins
 * [Dr Louise Dennis](http://www.csc.liv.ac.uk/~lad)
 * [Dr Clare Dixon](http://cgi.csc.liv.ac.uk/~clare)
-* Dr Marie Farrell
+* [Dr Marie Farrell](https://cgi.csc.liv.ac.uk/~marie/)
 * [Prof. Michael Fisher](http://intranet.csc.liv.ac.uk/~michael)
 * Dr Georgios Kourtis
 * [Dr Matt Luckcuck](http://cgi.csc.liv.ac.uk/~mattlck/)
