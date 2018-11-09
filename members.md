@@ -1,18 +1,14 @@
 ---
 layout: page
-title: Members
+title: Members of the Autonomy and Verification Laboratory
 ---
 
-## Current Members of the Autonomy and Verification Laboratory
-
-
-
 <article class="row">
+  <section class="columns large-4">
+  <div markdown="1">
+## Current Members
 
-<section class="columns large-6" >
-<div markdown="1">
 
-### Department of Computer Science
 * [Dr Rafael Cardoso](https://rafaelcaue.github.io/)
 *  Dr Emily Collins
 * [Dr Louise Dennis](http://www.csc.liv.ac.uk/~lad)
@@ -28,16 +24,36 @@ title: Members
 
 <section class="columns large-6">
 <div markdown="1">
+## Affiliated Members
+
 
 ### Virtual Engineering Centre
 
 * [Dr Charles Patchett](http://www.virtualengineeringcentre.com/about/team/dr-charles-patchett)
 * [Dr Konstantin Vikhorev](http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev)
+
+### Department of Engineering
+ * [Dr Mike Jump](https://www.liverpool.ac.uk/engineering/staff/michael-jump/)
+ * Dr Vince Page
+
+### Department of Computer Science
+
+ * [Dr Alexei Lisitsa](http://cgi.csc.liv.ac.uk/~alexei/)
+ * [Dr Xiaowei Huang ](https://cgi.csc.liv.ac.uk/~xiaowei/)
+ * [Dr Shan Luo](https://cgi.csc.liv.ac.uk/~shanluo/)
 </div>
 </section>
+
+
 </article>
 
-## Previous Members of the Autonomy and Verification Laboratory
+<article class="row">
+<div markdown="1">
 
-* Elisa Cucco
-* Maryam Kamali
+## Previous Members
+
+* Dr Elisa Cucco
+* Dr Maryam Kamali
+
+</div>
+</article>
