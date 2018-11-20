@@ -9,7 +9,7 @@ title: Members of the Autonomy and Verification Laboratory
 ## Current Members
 
 
-* [Dr Rafael Cardoso](https://rafaelcaue.github.io/)
+* [Dr Rafael Cardoso](https://rafaelcaue.github.io/) <a href="https://orcid.org/0000-0001-6666-6954 "><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
 *  Dr Emily Collins
 * [Dr Louise Dennis](http://www.csc.liv.ac.uk/~lad)
 * [Dr Clare Dixon](http://cgi.csc.liv.ac.uk/~clare)
