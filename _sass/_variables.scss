@@ -6,9 +6,9 @@ $body-bg: #fdfdfd;
 $body-font-color: #222;
 
 // Links
-$link-color: lighten($body-font-color, 25%);
+$link-color: darken(#4646ff, 25%);
 $link-hover-color: $body-font-color;
-$link-visited-color: darken($complimentary-color, 25%);
+$link-visited-color: lighten($link-color, 25%);
 
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;

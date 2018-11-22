@@ -1,27 +1,14 @@
 - title: "home"
   href: "/"
 
-- title: "blog"
-  href: "/blog"
-
 - title: "members"
   href: "/members"
 
 - title: "projects"
-  url: "/projects"
-  subcategories:
-    - subtitle: "Verifiable Autonomy"
-      subhref: "/projects/verifiableAutonomy.html"
-    - subtitle: "Verification and Validation of Autonomous Systems"
-      subhref: "/projects/vavas.html"
-    - subtitle: "Science of Sensor Systems Software (S4)"
-      subhref: "/projects/S4.html"
-    - subtitle: "Robotics and AI for Extreme Environments"
-      subhref: "/projects/RAI_Hubs.html"
-    - subtitle: "Past Projects"
-      subhref: "/projects/pastProjects.html"
-
-
+  href: "/projects"
+  
+- title: "Publications"
+  href: "/publications"
 
 - title: "Contact"
   href: "/contact"
