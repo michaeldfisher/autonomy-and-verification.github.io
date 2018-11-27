@@ -13,10 +13,10 @@ description: The Autonomy and Verification Laboratory at the University of Liver
 url:  http://localhost:4000
 
 header: yes
-header_sm: images/ahston-small.png
-header_med: images/ahston-med.png
-header_large: images/ahston-large.png
-header_xl: images/ahston-xl.png
+header_sm: images/ashton-small.png
+header_med: images/ashton-med.png
+header_large: images/ashton-large.png
+header_xl: images/ashton-xl.png
 
 
 # Exclude our ruby stuff
