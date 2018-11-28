@@ -218,6 +218,10 @@
 	#nav:target li {
 		display: block;
 	}
+	
+	#nav:target li.right {
+		display: inline-block;
+	}
 
 	#nav:target #toggleMenu {
 		display: none;
