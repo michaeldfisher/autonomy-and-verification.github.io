@@ -18,6 +18,18 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+.fairspace {
+	color: #CFB53B;
+}
+
+.rain {
+	color: #0000a0;
+}
+
+.orca {
+	color: #8B008B;
+}
+
 
 
 /**
@@ -140,6 +152,23 @@ pre {
         display: table;
         clear: both;
     }
+}
+
+/* Map */
+
+.map {
+    height: 500px;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+}
+
+/*disable custom maps scrolling behaviour*/
+.scrolloff {
+    pointer-events: none;
 }
 
 

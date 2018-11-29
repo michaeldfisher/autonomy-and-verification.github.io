@@ -30,7 +30,7 @@
 
 // Alignment of Social Icons
 #nav>.primary-nav>.right>a {
-    padding: 0px;
+    padding: 0 15px;
 }
 
 
@@ -217,6 +217,10 @@
 
 	#nav:target li {
 		display: block;
+	}
+	
+	#nav:target li.right {
+		display: inline-block;
 	}
 
 	#nav:target #toggleMenu {

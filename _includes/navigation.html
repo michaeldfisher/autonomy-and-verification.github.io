@@ -35,7 +35,14 @@
 		  {% endif %}
 	  {% endif %}
 	{% endfor %}
-      </ul>
+</ul>
+	
+<ul class="columns medium-3 right primary-nav">
+		{% for socials in site.data.socials %}
+	  <li class="right"><a href="{{ socials.href }}"><img src="{{ site.github.url }}/images/logos/{{ socials.title }}" style="vertical-align:middle" width="23px" alt="{{ socials.description }}" title="{{ socials.description }}"></a></li>
+	{% endfor %}
+	</ul>
+	
     </div>
   </nav>
 </nav>

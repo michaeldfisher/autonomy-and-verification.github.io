@@ -42,6 +42,12 @@ feed:
 
 permalink: /blog/:year/:title
 
+address:
+  - line: University of Liverpool Ashton Building Ashton Street Liverpool L69 3BX United Kingdom
+
+#Google API key
+google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
+
 #### SEO Stuff
 
 
