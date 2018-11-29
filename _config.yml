@@ -16,7 +16,7 @@ header: yes
 header_sm: images/ashton-small.png
 header_med: images/ashton-med.png
 header_large: images/ashton-large.png
-header_xl: images/ashton-xl.png
+header_xl: images/ashton-xl-desat.png
 
 
 # Exclude our ruby stuff
