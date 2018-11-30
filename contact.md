@@ -14,10 +14,6 @@ You can also keep up with our activities on twitter  <a href="https://twitter.co
 
 <section class="columns large-4">
 <div markdown="1">
-<br/>
-<br/>
-<br/>
-<br/>
 ## Address
 **Autonomy and Verification Laboratory**  
 University of Liverpool  

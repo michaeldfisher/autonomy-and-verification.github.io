@@ -157,14 +157,10 @@ pre {
 /* Map */
 
 .map {
-    height: 500px;
+    height: 300px;
 }
 
-@media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
-}
+
 
 /*disable custom maps scrolling behaviour*/
 .scrolloff {
