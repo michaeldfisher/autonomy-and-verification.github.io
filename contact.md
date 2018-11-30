@@ -12,19 +12,27 @@ You can also keep up with our activities on twitter  <a href="https://twitter.co
     <img alt="researchgate logo" src="/images/logos/RG_square_green.png" width="32" height="32" /> research gate</a>, and <a href="https://github.com/autonomy-and-verification-uol">
     <img alt="github logo" src="/images/logos/githubcontactlogo.png" width="32" height="32" /> GitHub</a>.
 
-
+<section class="columns large-4">
+<div markdown="1">
+<br/>
+<br/>
+<br/>
+<br/>
 ## Address
 **Autonomy and Verification Laboratory**  
-University of Liverpool, Department of Computer Science  
+University of Liverpool  
+Department of Computer Science  
 Ashton Building, Room 1.17  
 Ashton Street  
 Liverpool  
 L69 3BX  
 United Kingdom  
 Phone: +44 0151 795 4237  
+</div>
+</section>
 
-## Map
-
+<section class="columns large-8">
+<div markdown="1">
 <section id="map" class="map">
   <iframe id="map_iframe"
     width="100%"
@@ -48,4 +56,5 @@ Phone: +44 0151 795 4237
     allowfullscreen>
   </small>
 </section>
-
+</div>
+</section>
