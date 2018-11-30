@@ -11,7 +11,7 @@ title: Projects
 <div markdown="1">
 ### Verifiable Autonomy
 
-<a href="http://wordpress.csc.liv.ac.uk/va/"> <img alt="Verifiable Autonomy Logo" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/va.png"></a>
+<a href="http://wordpress.csc.liv.ac.uk/va/"> <img alt="Verifiable Autonomy Logo" style="float: left; margin: 1em" src="images/project-images/va.png"></a>
 
 The Verifiable Autonomy project is an EPSRC-funded collaboration between Computer Science researchers at the University of Liverpool, Roboticists at the University of the West of England and Control Scientists at the University of Sheffield. 
 
@@ -27,7 +27,7 @@ Further details can be found on the [Verifiable Autonomy website](http://wordpre
 <div markdown="1">
 ### Verification and Validation of Autonomous Systems
 
-<a href="https://vavas.org/"> <img alt="Verification and Validation of Autonomous Systems Network Logo" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/vavas.png"></a>
+<a href="https://vavas.org/"> <img alt="Verification and Validation of Autonomous Systems Network Logo" style="float: left; margin: 1em" src="images/project-images/vavas.png"></a>
 
 The Verification and Validation of Autonomous Systems Network links researchers from 34 universities from across the UK who work on the verification and validation of autonomous systems. The network aims to 
 highlight case studies and challenges in this area of research, and to provide a roadmap for future research in this area. The network also provides a route for researchers to disseminate their work to industry, government, and the public.
@@ -45,7 +45,7 @@ Further details can be found on the [Verification and Validation of Autonomous S
 ### Science of Sensor Systems Software
 
 
-<a href="http://www.dcs.gla.ac.uk/research/S4/"> <img alt="Science of Sensor Systems Software Logo" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/s4.png"></a>
+<a href="http://www.dcs.gla.ac.uk/research/S4/"> <img alt="Science of Sensor Systems Software Logo" style="float: left; margin: 1em" src="images/project-images/s4.png"></a>
 
 Science of Sensor Systems Software (S4) is an EPSRC programme grant for Glasgow University with Universities of St Andrews, Liverpool and Imperial College. The project aims to tackle the challenges for the development and deployment of verifiable, reliable, autonomous sensor systems that operate in uncertain, multiple and multi-scale environments. The S4 programme will develop a unifying science, across the breadth of mathematics, computer science and engineering, that will let developers engineer for the uncertainty and ensure that their systems and the information they provide is resilient, responsive, reliable, statistically sound and robust.
 
@@ -63,13 +63,13 @@ Further details can be found on the [Science of Sensor Systems Software website]
 <article class="row">
 <a href="{{ site.url }}/projects/rai-hubs">
   <section class="columns large-4">
- <img alt="RAIN Logo" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/rain-b-logo.png"> 
+ <img alt="RAIN Logo" style="float: left; margin: 1em" src="images/project-images/rain-b-logo.png"> 
 </section>
   <section class="columns large-4">
-<img alt="ORCA Logo" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/orca-logo.png"> 
+<img alt="ORCA Logo" style="float: left; margin: 1em" src="images/project-images/orca-logo.png"> 
 </section>
   <section class="columns large-4">
-<img alt="FAIR Space Logo" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/fair-space-b-logo.png"> 
+<img alt="FAIR Space Logo" style="float: left; margin: 1em" src="images/project-images/fair-space-b-logo.png"> 
 </section>
 </a>
 </article>
@@ -92,7 +92,7 @@ The Autonomy and Verification Laboratory is involved in three Robotics and Artif
 <div markdown="1">
 ### Trustworthy Robotic Assisstants
 
-<a href="http://www.robosafe.org/"> <img alt="Trustworthy Robotic Assisstants Picture" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/robosafe.png"></a>
+<a href="http://www.robosafe.org/"> <img alt="Trustworthy Robotic Assisstants Picture" style="float: left; margin: 1em" src="images/project-images/robosafe.png"></a>
 
 
 The Trustworthy Robotic Assisstants project links Bristol Robotics Laboratory, the University of Bristol, the University of Hertfordshire, the University of Liverpool and the University of the West of England, with several industrial partners. The project aims to tackle the challenges of safety verification for human-robot interation; by combining formal verification, simulation-based testing, and formative user evaluation.
@@ -107,7 +107,7 @@ Further details can be found on the [Trustworthy Robotic Assistants website](htt
 <div markdown="1">
 ### Reconfigurable Autonomy
 
-<a href="http://cgi.csc.liv.ac.uk/RAIS/index.php/Main_Page"> <img alt="Reconfigurable Autonomy Picture" style="float: left; margin: 1em" src="{{ site.url }}/images/project-images/rais_sq.png"></a>
+<a href="http://cgi.csc.liv.ac.uk/RAIS/index.php/Main_Page"> <img alt="Reconfigurable Autonomy Picture" style="float: left; margin: 1em" src="images/project-images/rais_sq.png"></a>
 
 The Reconfigurable Autonomy project is an EPSRC-funded collaboration between Computer Science researchers at the University of Liverpool, Autonomous Control Systems and Astronautics researchers at the University of Southampton and Spacecraft Autonomy researchers at Surrey Space centre. The projects aim to provide a rational agent architecture that controls autonomous decision-making, is re-usable and generic, and can be configured for many different autonomous platforms. 
 
