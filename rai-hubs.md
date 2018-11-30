@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "RAI Hubs"
+title: "Robotics and Artificial Intelligence hubs"
+url: "/projects/rai-hubs"
 ---
+
+
 
 The Autonomy and Verification Laboratory is involved in three Robotics and Artificial Intelligence hubs. Each hub focusses on autonomous robotics in a different hazardous environment: the [RAIN Hub](http://rainhub.org.uk/) in nuclear robotics, the [ORCA Hub](https://orcahub.org/) in robotics offshore  and the [FAIR-SPACE Hub](https://www.fairspacehub.org/) in robots in space.
 
@@ -15,7 +18,7 @@ Despite the differences between the environments and use cases of the three hubs
 
 ### Robotics and AI In Nuclear 
 
-![RAIN Logo]({{ site.url }}/images/logos/rain-logo.png "RAIN Logo")
+<img alt="RAIN Logo" style="float: left; margin: 2em" src="{{ site.url }}/images/logos/rain-logo.png"> 
 
 The Robotics and AI In Nuclear (RAIN) Hub aims to tackle the challenges of increasing the level of autonomy of robotic systems within the UK's civilian nuclear industry. 
 
@@ -33,11 +36,11 @@ Activities:
 * Verification of plans
 * Verification of reconfiguration
 
-More information can be found on the [RAIN Hub website] (http://rainhub.org.uk/).
+More information can be found on the [RAIN Hub website](http://rainhub.org.uk/).
 
 ### Offshore Robotics for Certification of Assets
 
-![ORCA Logo]({{ site.url }}/images/logos/orca-logo.png "ORCA Logo")
+<img alt="ORCA Logo" style="float: left; margin: 2em" src="{{ site.url }}/images/logos/orca-logo.png"> 
 
 The Offshore Robotics for Certification of Assets (ORCA) Hub aims to enable autonomous robotic systems for inspecting offshore assets, such as wind turbines and oil rigs.
 
@@ -56,7 +59,7 @@ More information can be found on the [ORCA Hub website](https://orcahub.org/).
 
 ### Future AI and Robotics for Space
 
-![FAIR SPACE Logo]({{ site.url }}/images/logos/fair-space-logo.png "FAIR SPACE Logo")
+<img alt="FAIR Space Logo" style="float: left; margin: 1em" src="{{ site.url }}/images/logos/fair-space-b-logo.png">
 
 The Future AI and Robotics for Space (FAIR SPACE) Hub aims to develop autonomous robotic systems for use in space exploration. 
 
@@ -72,3 +75,5 @@ Activities:
 * Verification of safety properties
 
 More information can be found on the [FAIR-SPACE Hub website](https://www.fairspacehub.org/).
+
+![UKRIIS]({{site.url}}/images/logos/ISCF_UKRI_Logo-s.png)
