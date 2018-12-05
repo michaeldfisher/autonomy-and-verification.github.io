@@ -32,7 +32,7 @@ Further details can be found on the [Verifiable Autonomy website](http://wordpre
 The Verification and Validation of Autonomous Systems Network links researchers from 34 universities from across the UK who work on the verification and validation of autonomous systems. The network aims to
 highlight case studies and challenges in this area of research, and to provide a roadmap for future research in this area. The network also provides a route for researchers to disseminate their work to industry, government, and the public.
 
-Further details can be found on the [Verification and Validation of Autonomous Systems website](https://vavas.org/), or on twitter <a href="https://twitter.com/vavasdotorg"><i class="fa fa-twitter-square fa-2x"></i> @vavasdotorg </a>.
+Further details can be found on the [Verification and Validation of Autonomous Systems website](https://vavas.org/), or on twitter <a href="https://twitter.com/vavasdotorg"><i class="fab fa-twitter"></i> @vavasdotorg </a>.
 
 </div>
   </section>
@@ -49,7 +49,7 @@ Further details can be found on the [Verification and Validation of Autonomous S
 
 Science of Sensor Systems Software (S4) is an EPSRC programme grant for Glasgow University with Universities of St Andrews, Liverpool and Imperial College. The project aims to tackle the challenges for the development and deployment of verifiable, reliable, autonomous sensor systems that operate in uncertain, multiple and multi-scale environments. The S4 programme will develop a unifying science, across the breadth of mathematics, computer science and engineering, that will let developers engineer for the uncertainty and ensure that their systems and the information they provide is resilient, responsive, reliable, statistically sound and robust.
 
-Further details can be found on the [Science of Sensor Systems Software website](http://www.dcs.gla.ac.uk/research/S4/), or on twitter <a href="https://twitter.com/S4programme"><i class="fa fa-twitter-square fa-2x"></i> @S4programme </a>.
+Further details can be found on the [Science of Sensor Systems Software website](http://www.dcs.gla.ac.uk/research/S4/), or on twitter <a href="https://twitter.com/S4programme"><i class="fab fa-twitter"></i> @S4programme </a>.
 
 </div>
   </section>
