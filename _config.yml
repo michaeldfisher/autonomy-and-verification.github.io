@@ -31,12 +31,6 @@ kramdown:
 
 destination: _site
 
-gems:
-  - jekyll-feed
-
-feed:
-  path: atom.xml
-
 # Compress our Css
 #sass:
 #    style: :compressed
@@ -54,7 +48,7 @@ google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
 # Twitter Cards
 twitter_user: LivUni_AVLab
 twitter_card: true
-twitter_image: images/ahston-small.png                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: images/ashton-home.png                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Usernames for things
 
