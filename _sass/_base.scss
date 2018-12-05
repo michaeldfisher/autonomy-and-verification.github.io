@@ -189,3 +189,13 @@ pre {
         }
     }
 }
+
+/* Title */
+
+.uolLogo {position: unset; }
+.title {font-size: 2em;}
+
+@media screen and (min-width:500px)  {
+  .uolLogo {position: fixed; }
+  .title{font-size: 3em;}
+}

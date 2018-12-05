@@ -5,7 +5,7 @@
   </header>
 
   {% elsif site.header %}
-    <header role="banner">   
+    <header role="banner">
 
  <a href="{{ site.github.url }}/">
 <h1 style=" top:1em;width: 100%; left: 0;text-align:center;position: absolute;  z-index: 100;  color: #031F73;font-weight: bold;">{{site.name}}</h1>
@@ -16,5 +16,8 @@
     </header>
 
   {% else %}
-<h1 style=" width: 100%; left: 0;text-align:center;  color: #031F73;font-weight: bold;">{{site.name}}</h1>
+
+<img class="uolLogo" src="{{site.url}}/images/logos/UoL.png" style="width: 15em;padding-top: 0.5em;float: left;padding-left: 1em;padding-bottom: 1em;" alt="University of Liverpool Logo" title="University of Liverpool Logo"/>
+<h1 class="title" style="  width: 100%; padding-left: 1em;text-align:center; color: #031F73;font-weight: bold;">{{site.name}}</h1>
+
 {% endif %}
