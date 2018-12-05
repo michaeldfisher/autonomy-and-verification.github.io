@@ -8,9 +8,10 @@ description: The Autonomy and Verification Laboratory at the University of Liver
 
 # Only use this if you are serving your site via Github Pages
 #github:
-  #url: "https://autonomy-and-verification-uol.github.io/"
 
-url:  http://localhost:4000
+  #url:  http://localhost:4000
+url: "https://autonomy-and-verification-uol.github.io/"
+images: "https://autonomy-and-verification-uol.github.io/images/"
 
 header: yes
 header_sm: images/ahston-small.png

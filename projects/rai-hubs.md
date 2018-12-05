@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Robotics and Artificial Intelligence hubs"
-url: "/projects/rai-hubs"
----
 
+---
+<a href="/projects">Back to Publications</a>
 
 
 The Autonomy and Verification Laboratory is involved in three Robotics and Artificial Intelligence hubs. Each hub focusses on autonomous robotics in a different hazardous environment: the [RAIN Hub](http://rainhub.org.uk/) in nuclear robotics, the [ORCA Hub](https://orcahub.org/) in robotics offshore  and the [FAIR-SPACE Hub](https://www.fairspacehub.org/) in robots in space.
@@ -16,11 +16,11 @@ Each of these environments might be dull or dirty; and the environments themselv
 
 Despite the differences between the environments and use cases of the three hubs that the A&V Lab is involved with, a lot of our work is relevant to all three hubs. The issue of __explainable__ autonomy is crucial to each of the hubs, and we are involved in developing techniques to verify autonomous and reconfigurable systems that operate in dangerous environments.
 
-### Robotics and AI In Nuclear 
+### Robotics and AI In Nuclear
 
-<img alt="RAIN Logo" style="float: left; margin: 2em" src="images/logos/rain-logo.png"> 
+<img alt="RAIN Logo" style="float: left; margin: 2em" src="{{site.images}}logos/rain-logo.png">
 
-The Robotics and AI In Nuclear (RAIN) Hub aims to tackle the challenges of increasing the level of autonomy of robotic systems within the UK's civilian nuclear industry. 
+The Robotics and AI In Nuclear (RAIN) Hub aims to tackle the challenges of increasing the level of autonomy of robotic systems within the UK's civilian nuclear industry.
 
 Major challenges:
 
@@ -40,7 +40,7 @@ More information can be found on the [RAIN Hub website](http://rainhub.org.uk/).
 
 ### Offshore Robotics for Certification of Assets
 
-<img alt="ORCA Logo" style="float: left; margin: 2em" src="images/logos/orca-logo.png"> 
+<img alt="ORCA Logo" style="float: left; margin: 2em" src="{{site.images}}logos/orca-logo.png">
 
 The Offshore Robotics for Certification of Assets (ORCA) Hub aims to enable autonomous robotic systems for inspecting offshore assets, such as wind turbines and oil rigs.
 
@@ -59,9 +59,9 @@ More information can be found on the [ORCA Hub website](https://orcahub.org/).
 
 ### Future AI and Robotics for Space
 
-<img alt="FAIR Space Logo" style="float: left; margin: 1em" src="images/logos/fair-space-b-logo.png">
+<img alt="FAIR Space Logo" style="float: left; margin: 1em" src="{{site.images}}logos/fair-space-b-logo.png">
 
-The Future AI and Robotics for Space (FAIR SPACE) Hub aims to develop autonomous robotic systems for use in space exploration. 
+The Future AI and Robotics for Space (FAIR SPACE) Hub aims to develop autonomous robotic systems for use in space exploration.
 
 Major Challenges:
 
@@ -70,10 +70,10 @@ Major Challenges:
 * Expensive
 * Potential human risk
 
-Activities: 
+Activities:
 
 * Verification of safety properties
 
 More information can be found on the [FAIR-SPACE Hub website](https://www.fairspacehub.org/).
 
-![UKRIIS](images/logos/ISCF_UKRI_Logo-s.png)
+![UKRIIS]({{site.images}}logos/ISCF_UKRI_Logo-s.png)
