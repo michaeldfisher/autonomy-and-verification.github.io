@@ -74,7 +74,12 @@ li {
          margin-bottom: 0;
     }
 }
+@media only screen and (max-width: 600px) {
 
+  ul, ol {
+      margin-left: 0;
+  }
+}
 
 /**
  * Headings
