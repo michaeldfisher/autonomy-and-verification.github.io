@@ -1,13 +1,23 @@
+
 {% if page.header%}
   <header role="banner">
       <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/{{ page.header_xl }}" srcset="{{ site.github.url }}/{{ page.header_sm }} 200w, {{ site.github.url }}/{{ page.header_med }} 641w, {{ site.github.url }}/{{ page.header_large }} 1025w, {{ site.github.url }}/{{ page.header_xl }} 1441w" alt="{{ site.name }} banner image" title="{{ site.name }} banner image" class="center"></a>
   </header>
-  
+
   {% elsif site.header %}
     <header role="banner">
-      <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/{{ site.header_xl }}" srcset="{{ site.github.url }}/{{ site.header_sm }} 200w, {{ site.github.url }}/{{ site.header_med }} 641w, {{ site.github.url }}/{{ site.header_large }} 1025w, {{ site.github.url }}/{{ site.header_xl }} 1441w" alt="{{ site.name }} banner image" title="{{ site.name }} banner image" class="center"></a>
+
+ <a href="{{ site.github.url }}/">
+<h1 style=" top:1em;width: 100%; left: 0;text-align:center;position: absolute;  z-index: 100;  color: #031F73;font-weight: bold;">{{site.name}}</h1>
+<img src="{{ site.github.url }}/{{ site.header_xl }}" srcset="{{ site.github.url }}/{{ site.header_sm }} 200w, {{ site.github.url }}/{{ site.header_med }} 641w, {{ site.github.url }}/{{ site.header_large }} 1025w, {{ site.github.url }}/{{ site.header_xl }} 1441w" alt="{{ site.name }} banner image" title="{{ site.name }} banner image" class="center" style="position:relative;">
+
+</a>
+
     </header>
-  
+
   {% else %}
+
+<img class="uolLogo" src="{{site.url}}/images/logos/UoL.png" style="width: 15em;padding-top: 0.5em;float: left;padding-left: 1em;padding-bottom: 1em;" alt="University of Liverpool Logo" title="University of Liverpool Logo"/>
+<h1 class="title" style="  width: 100%; padding-left: 1em;text-align:center; color: #031F73;font-weight: bold;">{{site.name}}</h1>
 
 {% endif %}

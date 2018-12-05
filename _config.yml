@@ -13,11 +13,11 @@ description: The Autonomy and Verification Laboratory at the University of Liver
 url: "https://autonomy-and-verification-uol.github.io/"
 images: "https://autonomy-and-verification-uol.github.io/images/"
 
-header: yes
+header: no
 header_sm: images/ashton-small.png
 header_med: images/ashton-med.png
 header_large: images/ashton-large.png
-header_xl: images/ashton-xl.png
+header_xl: images/ashton-xl-desat.png
 
 
 # Exclude our ruby stuff
@@ -58,4 +58,5 @@ twitter_image: images/ahston-small.png                       #enter a default im
 
 # Usernames for things
 
-researchgate_username: Michael-Fishers-Autonomy-and-Verification-Lab-Michael-Fisher
+
+researchgate_username: Autonomy-and-Verification-Lab-Michael-Fisher
