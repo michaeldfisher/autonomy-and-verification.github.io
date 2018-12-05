@@ -199,10 +199,10 @@ pre {
 
 /* Title */
 
-.uolLogo {position: unset; }
-.title {font-size: 2em;}
+.uolLogo {width: 7em; }
+.title {font-size: 1em;}
 
 @media screen and (min-width:500px)  {
-  .uolLogo {position: fixed; }
+  .uolLogo {width: 15em; }
   .title{font-size: 3em;}
 }
