@@ -1,11 +1,11 @@
-- title: "twitter-style-icons-png-6.png"
+- icon: "fab fa-twitter"
   description: "Twitter"
   href: "https://twitter.com/LivUni_AVLab"
-  
-- title: "RG_square_green.png"
+
+- icon: "fab fa-researchgate"
   description: "ResearchGate"
   href: "https://www.researchgate.net/lab/Michael-Fishers-Autonomy-and-Verification-Lab-Michael-Fisher"
 
-- title: "433-github.svg"
+- icon: "fab fa-github"
   description: "GitHub organization"
   href: "https://github.com/autonomy-and-verification-uol"

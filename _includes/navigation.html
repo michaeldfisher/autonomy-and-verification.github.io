@@ -5,7 +5,7 @@
 
 	<li id="toggleMenu"><a href="#nav">Menu</a></li>
 	<li id="hideMenu"><a href="#toggleMenu">Menu</a></li>
-	
+
 	{% for nav in site.data.nav %}
 	  {% if nav.subcategories != null %}
 	    <li class="dropdown">
@@ -36,13 +36,13 @@
 	  {% endif %}
 	{% endfor %}
 </ul>
-	
+
 <ul class="columns medium-3 right primary-nav">
-		{% for socials in site.data.socials %}
-	  <li class="right"><a href="{{ socials.href }}"><img src="{{ site.github.url }}/images/logos/{{ socials.title }}" style="vertical-align:middle" width="23px" alt="{{ socials.description }}" title="{{ socials.description }}"></a></li>
+	{% for socials in site.data.socials %}
+	  <li class="right"><a href="{{ socials.href }}"><i style="font-weight: normal; font-size:2.5em" class="{{socials.icon}}"></i> </a></li>
 	{% endfor %}
 	</ul>
-	
+
     </div>
   </nav>
 </nav>
