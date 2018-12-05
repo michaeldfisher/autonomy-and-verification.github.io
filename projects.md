@@ -4,12 +4,15 @@ title: Projects
 ---
 
 ## Current projects
+<br>
 
 <article class="row">
 
   <section class="columns large-6">
 <div markdown="1">
+
 ### Verifiable Autonomy
+<br>
 
 <a href="http://wordpress.csc.liv.ac.uk/va/"> <img alt="Verifiable Autonomy Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/va.png"></a>
 
@@ -25,7 +28,10 @@ Further details can be found on the [Verifiable Autonomy website](http://wordpre
 
   <section class="columns large-6">
 <div markdown="1">
+
+
 ### Verification and Validation of Autonomous Systems
+<br>
 
 <a href="https://vavas.org/"> <img alt="Verification and Validation of Autonomous Systems Network Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/vavas.png"></a>
 
@@ -42,8 +48,10 @@ Further details can be found on the [Verification and Validation of Autonomous S
 <article class="row">
   <section class="columns large-6">
 <div markdown="1">
-### Science of Sensor Systems Software
 
+
+### Science of Sensor Systems Software
+<br>
 
 <a href="http://www.dcs.gla.ac.uk/research/S4/"> <img alt="Science of Sensor Systems Software Logo" style="float: left; margin: 1em" src="{{site.images}}images/project-images/s4.png"></a>
 
@@ -57,8 +65,9 @@ Further details can be found on the [Science of Sensor Systems Software website]
   <section class="columns large-6">
 <div markdown="1">
 
-### Robotics and AI Hubs
 
+### Robotics and AI Hubs
+<br>
 
 <article class="row">
 <a href="{{ site.url }}/projects/rai-hubs">
@@ -82,17 +91,18 @@ The Autonomy and Verification Laboratory is involved in three Robotics and Artif
 </article>
 
 
-
-
 ## Previous Projects
+<br>
 
 <article class="row">
 
 <section class="columns  large-6">
 <div markdown="1">
-### Trustworthy Robotic Assisstants
 
-<a href="http://www.robosafe.org/"> <img alt="Trustworthy Robotic Assisstants Picture" style="float: left; margin: 1em" src="{{site.images}}project-images/robosafe.png"></a>
+### Trustworthy Robotic Assistants
+<br>
+
+<a href="http://www.robosafe.org/"> <img alt="Trustworthy Robotic Assistants Picture" style="float: left; margin: 1em" src="{{site.images}}project-images/robosafe.png"></a>
 
 
 The Trustworthy Robotic Assistants project links Bristol Robotics Laboratory, the University of Bristol, the University of Hertfordshire, the University of Liverpool and the University of the West of England, with several industrial partners. The project aims to tackle the challenges of safety verification for human-robot interaction; by combining formal verification, simulation-based testing, and formative user evaluation.
@@ -105,7 +115,10 @@ Further details can be found on the [Trustworthy Robotic Assistants website](htt
 
 <section class="columns large-6">
 <div markdown="1">
+
+
 ### Reconfigurable Autonomy
+<br>
 
 <a href="http://cgi.csc.liv.ac.uk/RAIS/index.php/Main_Page"> <img alt="Reconfigurable Autonomy Picture" style="float: left; margin: 1em" src="{{site.images}}project-images/rais_sq.png"></a>
 
