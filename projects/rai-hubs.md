@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Robotics and Artificial Intelligence hubs"
+title: "Robotics and Artificial Intelligence Hubs"
 
 ---
 

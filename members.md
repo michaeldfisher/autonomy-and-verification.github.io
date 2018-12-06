@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members of the Autonomy and Verification Laboratory
+title: Members
 ---
 
 <article class="row">
