@@ -79,7 +79,7 @@ Major Challenges:
 
 More information can be found on the [FAIR-SPACE Hub website](https://www.fairspacehub.org/) and at <a href="https://twitter.com/FAIR_SPACE_Hub"> <i class="fab fa-twitter"></i> @FAIR_SPACE_Hub</a>.
 
-### RAI Hubs Publications
+# RAI Hubs Publications
 
 <script src="https://bibbase.org/show?bib=https://autonomy-and-verification-uol.github.io/hubpubs.bib&jsonp=1&group0=year"></script>
 
