@@ -53,7 +53,7 @@ Further details can be found on the [Verification and Validation of Autonomous S
 ### Science of Sensor Systems Software
 <br>
 
-<a href="http://www.dcs.gla.ac.uk/research/S4/"> <img alt="Science of Sensor Systems Software Logo" style="float: left; margin: 1em" src="{{site.images}}images/project-images/s4.png"></a>
+<a href="http://www.dcs.gla.ac.uk/research/S4/"> <img alt="Science of Sensor Systems Software Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/s4.png"></a>
 
 Science of Sensor Systems Software (S4) is an EPSRC programme grant for Glasgow University with Universities of St Andrews, Liverpool and Imperial College. The project aims to tackle the challenges for the development and deployment of verifiable, reliable, autonomous sensor systems that operate in uncertain, multiple and multi-scale environments. The S4 programme will develop a unifying science, across the breadth of mathematics, computer science and engineering, that will let developers engineer for the uncertainty and ensure that their systems and the information they provide is resilient, responsive, reliable, statistically sound and robust.
 
