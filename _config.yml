@@ -10,7 +10,7 @@ description: The Autonomy and Verification Laboratory at the University of Liver
 #github:
 
   #url:  http://localhost:4000
-url: "https://autonomy-and-verification-uol.github.io/"
+url: "https://autonomy-and-verification-uol.github.io"
 images: "https://autonomy-and-verification-uol.github.io/images/"
 
 header: no
