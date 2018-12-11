@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Formal Methods for Autonmous Robotic System"
+title: "Formal Methods for Autonomous Systems Workshop"
 
 ---
 

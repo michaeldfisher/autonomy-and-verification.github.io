@@ -3,7 +3,7 @@ layout: page
 title: Events
 ---
 
-Upcoming Events by Members of the A&V Lab
+Upcoming Workshops, Tutorials, and other events run by [Members](/members) of the Autonomy and Verification Lab.
 
 <section >
   <ul>
