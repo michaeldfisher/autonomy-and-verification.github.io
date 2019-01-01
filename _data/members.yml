@@ -1,0 +1,78 @@
+CurrentMembers:
+  - name : "Dr Rafael Cardoso"
+    website: "https://rafaelcaue.github.io/"
+    orcid: "https://orcid.org/0000-0001-6666-6954"
+
+  - name : "Dr Emily Collins"
+
+  - name : "Dr Louise Dennis"
+    website : "http://www.csc.liv.ac.uk/~lad"
+    orcid : "https://orcid.org/0000-0003-1426-1896"
+
+  - name : "Dr Clare Dixon"
+    website: "http://cgi.csc.liv.ac.uk/~clare"
+
+  - name : "Dr Marie Farrell"
+    website: "https://cgi.csc.liv.ac.uk/~marie/"
+    orcid: "https://orcid.org/0000-0001-7708-3877"
+
+  - name : "Dr Angelo Ferrando"
+    website: "https://angeloferrando.github.io/website/"
+    orcid: "https://orcid.org/0000-0002-8711-4670"
+
+  - name : "Prof. Michael Fisher"
+    website: "http://intranet.csc.liv.ac.uk/~michael"
+    orcid: "https://orcid.org/0000-0002-0875-3862"
+
+  - name : "Dr Georgios Kourtis"
+
+  - name : "Dr Matt Luckcuck"
+    website: "http://cgi.csc.liv.ac.uk/~mattlck/"
+    orcid: "https://orcid.org/0000-0002-6444-9312"
+
+  - name : "Dr Sven Linker"
+    website: "http://cgi.csc.liv.ac.uk/~slk"
+    orcid: "https://orcid.org/0000-0003-2913-7943"
+
+  - name : "Dr Fabio Papacchini"
+    website: "http://cgi.csc.liv.ac.uk/~papacchf/"
+
+  - name : "Dr Matt Webster"
+    website: "http://www.csc.liv.ac.uk/~matt"
+    orcid: "https://orcid.org/0000-0002-8817-6881"
+
+AffiliatedMembers:
+  - Institute: "Virtual Engineering Centre"
+    MembersList:
+      - name : "Dr Charles Patchett"
+        website: "http://www.virtualengineeringcentre.com/about/team/dr-charles-patchett"
+
+      - name : "Dr Konstantin Vikhorev"
+        website : "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
+
+  - Institute : "Department of Engineering"
+    MembersList :
+      - name : "Dr Mike Jump"
+        website: "https://www.liverpool.ac.uk/engineering/staff/michael-jump/"
+
+      - name : "Dr Vince Page"
+
+  - Institute : "Department of Computer Science"
+    MembersList:
+      - name : "Dr Alexei Lisitsa"
+        website : "http://cgi.csc.liv.ac.uk/~alexei/"
+
+      - name : "Dr Xiaowei Huang"
+        website : "https://cgi.csc.liv.ac.uk/~xiaowei/"
+        orcid : "https://orcid.org/0000-0001-6267-0366"
+
+      - name : "Dr Shan Luo"
+        website : "https://cgi.csc.liv.ac.uk/~shanluo/"
+        orcid : "https://orcid.org/0000-0003-4760-0372"
+
+PreviousMembers:
+  - name : "Dr Elisa Cucco"
+    website: "https://www.liverpool.ac.uk/computer-science/staff/elisa-cucco/publications/"
+
+  - name : "Dr Maryam Kamali"
+    orcid : "https://orcid.org/0000-0002-2789-6914"

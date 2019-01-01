@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Future of Nuclear Robotics Certification Workshop Series"
-
+series : true
 ---
 
 A series of workshops, organised by researchers at the University of Liverpool, linked to UK research and development activities in Robotics for Nuclear Applications. These workshops target the current and emerging safety justification issues that robotic systems raise in the nuclear industry. These workshops will introduce certification challenges (using safety cases, providing certification evidence, etc) across the nuclear estate.

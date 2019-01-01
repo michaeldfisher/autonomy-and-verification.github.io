@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Space Security Scoping Workshop"
-
+date : 2019-02-01
 ---
 
 <article class="row">
@@ -22,5 +22,5 @@ We will bring leading companies tackling the development of future space technol
 
 
 
-Full details are available on the <a href="http://cgi.csc.liv.ac.uk/~marie/scopingsecwk/" target="_blank">Space Security Scoping Workshop</a> wesite.
+Full details are available on the <a href="http://cgi.csc.liv.ac.uk/~marie/scopingsecwk/" target="_blank">Space Security Scoping Workshop</a> website.
 You can registers on the workshop's <a href="https://www.eventbrite.com/e/space-security-scoping-workshop-tickets-51645552237" target="_blank"> Eventbrite</a> page.
