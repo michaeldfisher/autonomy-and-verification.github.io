@@ -1,12 +1,15 @@
-- title: "home"
+- title: "Home"
   href: "/"
 
-- title: "members"
+- title: "Members"
   href: "/members"
 
-- title: "projects"
+- title: "Events"
+  href: "/events"
+
+- title: "Projects"
   href: "/projects"
-  
+
 - title: "Publications"
   href: "/publications"
 

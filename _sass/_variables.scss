@@ -1,9 +1,14 @@
+$uol-blue: #031F73;
+$uol-gold: #A17700;
+$uol-black: #1E1E1E;
+
 // Base Colors
 $primary-color: #272727;
-$secondary-color: #aaa;
+$secondary-color: $uol-gold;
 $complimentary-color: #fff;
 $body-bg: #fdfdfd;
 $body-font-color: #222;
+
 
 // Links
 $link-color: darken(#4646ff, 25%);
@@ -19,11 +24,11 @@ $base-line-height: 1.5;
 
 // Primary Navbar Settings
 $navbar-height: 44px;
-$navbar-color: $primary-color;
+$navbar-color: $uol-black;
 $navbar-text-color: $secondary-color;
 $navbar-hover-color: $complimentary-color;
 $navbar-active-color: darken($complimentary-color, 75%);
-$navbar-font-size: 13px;
+$navbar-font-size: 14px;
 $navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
 // Socials Navbar Settings

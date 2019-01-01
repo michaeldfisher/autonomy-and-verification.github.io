@@ -18,7 +18,25 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+.fairspace {
+	color: #CFB53B;
+}
 
+.rain {
+	color: #0000a0;
+}
+
+.orca {
+	color: #8B008B;
+}
+
+.s4 {
+	color: #FF9400;
+}
+
+.va {
+    color:#006400;
+}
 
 /**
  * Images
@@ -56,13 +74,19 @@ li {
          margin-bottom: 0;
     }
 }
+@media only screen and (max-width: 600px) {
 
+  ul, ol {
+      margin-left: 0;
+  }
+}
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    color: $uol-blue;
 }
 
 
@@ -142,6 +166,19 @@ pre {
     }
 }
 
+/* Map */
+
+.map {
+    height: 300px;
+}
+
+
+
+/*disable custom maps scrolling behaviour*/
+.scrolloff {
+    pointer-events: none;
+}
+
 
 
 /**
@@ -159,4 +196,14 @@ pre {
             fill: $complimentary-color;
         }
     }
+}
+
+/* Title */
+
+.uolLogo {width: 7em; }
+.title {font-size: 1em;}
+
+@media screen and (min-width:500px)  {
+  .uolLogo {width: 15em; }
+  .title{font-size: 3em;}
 }
