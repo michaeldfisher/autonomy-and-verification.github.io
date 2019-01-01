@@ -54,3 +54,39 @@ The `"project title"` will be the header of the project description on the proje
 ## When a Project Ends
 
 When a project has ended, simply move its description file from `_projects` to `_projects-previous`. This will move the project's description from "Current Projects" to "Previous Projects" on the [projects](https://autonomy-and-verification-uol.github.io/projects) page.
+
+## Managing the Members List
+
+The [Members](https://autonomy-and-verification-uol.github.io/members) page is automatically generated from the data in `_data/members.yml`, which contains three data structures: `CurrentMembers`, `AffiliatedMembers`, and `PreviousMembers`.
+
+A member's record will look like:
+
+```
+- name : "member name"
+  website: "member website"
+  orcid: "orchid url"
+```
+
+The `-` indicates that it is an element in the relevant list (of either Current, Affiliated, or Previous Members). The `website` and `orchid` fields are optional.
+
+### Adding a new Lab Members
+
+To add a new member to the members page, you need to add their details to the `_data/members.yml` file.
+
+If they are a 'full' member of the lab, then add their details to the `CurrentMembers` list. Note that `website` and `orchid` are optional.
+
+If they are an affiliated member of the lab, then add their details to the `AffiliatedMembers` list. Each element of this list contains the `Institute` and `MembersList` fields, e.g.:
+
+```
+- Institute: "institute name"
+  MembersList:
+    - name : "member name"
+      website: "member website"
+      orcid: "orchid url"
+```
+
+If the member belongs to an institute that is currently not listed, then use the structure above to add the new institute and the member's details. If the member belongs to an institute already in the list, then simply add their details to the `MembersList` of that institute. Again, `website` and `orchid` are optional fields.
+
+### When a Member Leaves
+
+When a member leaves the lab, simple move the fields containing their data to the `PreviousMembers` list. Again, `website` and `orchid` are optional fields.
