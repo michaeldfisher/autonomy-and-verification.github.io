@@ -37,3 +37,20 @@ In summary, to add an event page:
 1. make a new markdown file in the `_events` folder,
 2. add `layout:event` and a `title` to the file's header, and;
 3. commit this change to the master branch.
+
+## Adding a New Project
+
+To add a new project to the website's [projects](https://autonomy-and-verification-uol.github.io/projects) page, make a new markdown file in the `_projects` folder (note: not the `projects` folder). This will generate a project description on the projects page. The title of this file should be descriptive, but it's not displayed anywhere on the site.
+
+The file should have the following header:
+```
+---
+title : "project title"
+---
+```
+
+The `"project title"` will be the header of the project description on the projects page, and the content will appear under this header.
+
+## When a Project Ends
+
+When a project has ended, simply move its description file from `_projects` to `_projects-previous`. This will move the project's description from "Current Projects" to "Previous Projects" on the [projects](https://autonomy-and-verification-uol.github.io/projects) page.
