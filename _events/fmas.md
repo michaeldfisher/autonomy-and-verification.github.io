@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Formal Methods for Autonomous Systems Workshop"
-
+date : 2019-10-07
 ---
 
 Futuristic robotic systems are autonomous, intelligent, physical entities that interact with and can
