@@ -1,4 +1,4 @@
-#University of Liverpool's Autonomy and Verification Lab website
+# University of Liverpool's Autonomy and Verification Lab website
 Matt Luckcuck 2019
 
 ## Contact and Theme
