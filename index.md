@@ -13,7 +13,7 @@ The Autonomy and Verification Laboratory focusses on autonomous systems and thei
 The laboratory is led by [Professor Michael Fisher](https://cgi.csc.liv.ac.uk/~michael/).
 
 <br/>
-<p style="text-align:center">
+<p style="text-align: center;">
 <img src="{{site.url}}/images/ashton-home.png" alt="Picture of the Ashton Building, University of Liverpool, UK"/>
 </p>
 
