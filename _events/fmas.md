@@ -71,7 +71,7 @@ present their work. Revised selected papers will be published in the upcoming FM
 
 ## Submissions
 
-Submission will be via easychair, in LNCS format.
+Submission will be via [easychair](https://easychair.org/conferences/?conf=fmas2019), in LNCS format.
 
 We will accept two categories of submission:
 * Short papers: 6 pages LNCS, and
