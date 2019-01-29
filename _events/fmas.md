@@ -2,11 +2,11 @@
 layout: event
 title: "Formal Methods for Autonomous Systems Workshop"
 date : 2019-10-07
-image: {{site.images}}/logos/FMAS-Logo.png
+image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
 
 
- <img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.images}}/logos/FMAS-Logo.png">
+ <img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.images}}logos/FMAS-Logo.png">
 
 
 This one day workshop will bring together researchers working on a range of techniques for formal verification of autonomous systems, 
