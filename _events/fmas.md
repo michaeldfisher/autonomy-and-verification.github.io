@@ -2,6 +2,7 @@
 layout: event
 title: "Formal Methods for Autonomous Systems Workshop"
 date : 2019-10-07
+image: images/logos/FMAS-Logo.svg.png
 ---
 
 
@@ -37,7 +38,7 @@ The workshop will feature invited speakers (to be confirmed) and presentations o
 There are two categories of submission:
 
 * **Short** papers -- **6 pages**
-* **Long papers** -- **15 pages**
+* **Long** papers -- **15 pages**
 
 Topics of interest include (but are not limited to):
 
@@ -75,4 +76,16 @@ present their work. Revised selected papers will be published in the upcoming FM
 
 ## Program Committee
 
-Under Construction
+* Mikael Asplund, Linkoping University 
+* Jérémie Guiochet, University of Toulouse
+* Taylor Johnson, University of Illinois at Urbana-Champaign
+* Bruno Lacerda, Oxford University
+* Sven Linker, University of Liverpool
+* Tiziana Margaria, University of Limerick
+* Alice Miller, University of Glasgow
+* Alvaro Miyazawa, University of York
+* Kristin Rozier, University of Iowa
+* Marija Slavkovik, University of Bergen
+* Silvia Lizeth Tapia Tarifa, University of Oslo
+* Hao Wu, Maynooth University
+
