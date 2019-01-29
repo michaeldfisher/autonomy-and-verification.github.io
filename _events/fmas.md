@@ -4,18 +4,14 @@ title: "Formal Methods for Autonomous Systems Workshop"
 date : 2019-10-07
 ---
 
-<article class="row">
 
-  <section class="columns large-4">
  <img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.images}}/logos/FMAS-Logo.svg.png">
-</section>
-<section class="columns large-7">
+
 
 This one day workshop will bring together researchers working on a range of techniques for formal verification of autonomous systems, 
 to present recent work in the area, discuss key difficulties, and stimulate collaboration between the robotics and formal methods 
 communities. This workshop will include invited speakers, contributed papers, experience reports, and a discussion panel.
-</section>
-</article>
+
 
 ## Scope
 
