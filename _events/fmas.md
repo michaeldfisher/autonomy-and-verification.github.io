@@ -25,15 +25,14 @@ for tackling these challenges. Work using integrated formal methods, or describi
 
 ## Programme Information
 
-The workshop will feature invited speakers (to be confirmed) and presentations of accepted papers. The workshop will also feature a Discussion 
-Panel for a structured, whole-group conversation for scoping the future directions of formal methods for autonomous systems. 
+The workshop will feature invited speakers (to be confirmed) and presentations of accepted papers. The workshop will also feature a discussion panel for a structured, whole-group conversation for scoping the future directions of formal methods for autonomous systems. 
 
 ## Submission Information
 
 There are two categories of submission:
 
-* Short papers -- 6 pages
-* Long papers -- 15 pages
+* **Short** papers -- **6 pages**
+* **Long papers** -- **15 pages**
 
 Topics of interest include (but are not limited to):
 
@@ -43,14 +42,14 @@ Topics of interest include (but are not limited to):
 * Future directions for formal methods for autonomous and/or robotic systems
 
 Submission will be via [easychair](https://easychair.org/conferences/?conf=fmas2019), in LNCS format.
-Details about the LNCS format can be found on the [Springer Authors Guidelines page](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+Details about the **LNCS format** can be found on the [Springer Authors Guidelines page](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 Each submission will receive at least three, single-blind reviews. If a paper is accepted, at least one of the authors must attend the workshop to
 present their work. Revised selected papers will be published in the upcoming FM 2019 Workshops LNCS volume.
 
 ## Important Dates
 
-* Submission: 30th June  2019
+* **Submission: 30th June  2019**
 * Notification: 31st July 2019
 * Final Version due: 1st September 2019
 * Workshop: at Formal Methods 2019 (7th -- 11th of October 2019)
@@ -68,17 +67,6 @@ present their work. Revised selected papers will be published in the upcoming FM
   [Matt Luckcuck](https://cgi.csc.liv.ac.uk/~mattlck/), University of Liverpool, UK
 </section>
 </article>
-
-## Submissions
-
-Submission will be via [easychair](https://easychair.org/conferences/?conf=fmas2019), in LNCS format.
-
-We will accept two categories of submission:
-* Short papers: 6 pages LNCS, and
-* long papers: 15 pages LNCS.
-
-Submissions will receive at least three, single-blind reviews. If a paper is accepted, at least one of the authors must attend the workshop to present their work.
-
 
 ## Program Committee
 
