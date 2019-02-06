@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Formal Methods for Autonomous Systems Workshop"
-date : 2019-10-07
+date : 2019-10-11
 image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
 
@@ -58,7 +58,7 @@ present their work. Revised selected papers will be published in the upcoming FM
 * **Submission: 30th June  2019**
 * Notification: 31st July 2019
 * Final Version due: 1st September 2019
-* Workshop: at Formal Methods 2019 (7th -- 11th of October 2019)
+* Workshop: 11th of October 2019 (at [Formal Methods 2019](http://formalmethods2019.inesctec.pt/))
 
 ## Chairs
 
