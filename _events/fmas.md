@@ -77,7 +77,9 @@ present their work. Revised selected papers will be published in the upcoming FM
 ## Program Committee
 
 * Mikael Asplund, Linkoping University 
+* Matthew Bradbury. University of Warwick
 * Jérémie Guiochet, University of Toulouse
+* Rob Hierons, University of Sheffield
 * Taylor Johnson, University of Illinois at Urbana-Champaign
 * Bruno Lacerda, Oxford University
 * Sven Linker, University of Liverpool
@@ -86,6 +88,7 @@ present their work. Revised selected papers will be published in the upcoming FM
 * Alvaro Miyazawa, University of York
 * Kristin Rozier, University of Iowa
 * Marija Slavkovik, University of Bergen
+* James Stovold, Swansea University
 * Silvia Lizeth Tapia Tarifa, University of Oslo
 * Hao Wu, Maynooth University
 
