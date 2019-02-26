@@ -38,13 +38,13 @@ We had presentations (available below) from representatives by the Universities 
     - Download: <a href="{{site.url}}/files/presentations/workshop_sept18-ncnr.pdf" download="" > <button type="button" > Slides </button></a>
 * Introduction to the [RAIN Hub]({{ site.RAIN_HUB_URL }}) 
     - [Barry Lennox](https://www.research.manchester.ac.uk/portal/barry.lennox.html) <br>
-    - Download: <a href="/~mattlck/FNRC/files/presentations/RAIN_Lennox.pptx" download="" > <button type="button" > Slides </button></a>
+    - Download (119MB): <a href="http://cgi.csc.liv.ac.uk/~mattlck/FNRC/files/presentations/RAIN_Lennox.pptx" download="" > <button type="button" > Slides </button></a>
 * Safety Cases for Autonomous Systems, Safety Cases, Principles of Safe Systems, Safe System Design, Safety Case Principles, and Safety Case Shortcomings & Traps 
     - Daniel Finnigan, Mark Bowell, Steve Frost, Tim Parkes; [Office for Nuclear Regulation]({{site.ONR_URL}})  <br>
     - Download: <a href="{{site.url}}/files/presentations/Introduction-to-Safety-Case-Presentation.pdf" download="" > <button type="button" > Slides </button></a>
 * Introduction to the [Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/) 
     - [Tim Kelly](https://www.cs.york.ac.uk/people/tpk)
-	- Download (8.8MB): <a href="/~mattlck/FNRC/files/presentations/AAIP-Programme-Overview-20180906.pdf" download=""> <button type="button"> Slides </button></a>
+	- Download (8.8MB): <a href="{{site.url}}/files/presentations/AAIP-Programme-Overview-20180906.pdf" download=""> <button type="button"> Slides </button></a>
 
 ## Organisers
 * Daniel Finnigan -- [Office for Nuclear Regulation]({{site.ONR_URL}})
