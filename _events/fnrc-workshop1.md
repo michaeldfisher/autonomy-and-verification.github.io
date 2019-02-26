@@ -38,7 +38,7 @@ We had presentations (available below) from representatives by the Universities 
     - Download: <a href="{{site.url}}/files/presentations/workshop_sept18-ncnr.pdf" download="" > <button type="button" > Slides </button></a>
 * Introduction to the [RAIN Hub]({{ site.RAIN_HUB_URL }}) 
     - [Barry Lennox](https://www.research.manchester.ac.uk/portal/barry.lennox.html) <br>
-    - Download: <a href="{{site.url}}/files/presentations/RAIN_Lennox.pptx" download="" > <button type="button" > Slides </button></a>
+    - Download: <a href="/~mattlck/FNRC/files/presentations/RAIN_Lennox.pptx" download="" > <button type="button" > Slides </button></a>
 * Safety Cases for Autonomous Systems, Safety Cases, Principles of Safe Systems, Safe System Design, Safety Case Principles, and Safety Case Shortcomings & Traps 
     - Daniel Finnigan, Mark Bowell, Steve Frost, Tim Parkes; [Office for Nuclear Regulation]({{site.ONR_URL}})  <br>
     - Download: <a href="{{site.url}}/files/presentations/Introduction-to-Safety-Case-Presentation.pdf" download="" > <button type="button" > Slides </button></a>
