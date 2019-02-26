@@ -13,7 +13,7 @@ date : 2019-04-12
     <img alt="University of Liverpool logo" style="float: left; width : 70%; " src="{{site.images}}logos/UoL.png">
   </div> 
   <div class="columns large-4" markdown="1">	
-    ## Aim
+## Aim
 
 This workshop will explore the challenges of certifying nuclear robotic systems. Groups of attendees will examine realistic nuclear robotic case studies, discussing how the introduction of autonomy, machine learning, or long-term use will impact the verification techniques and evidence required for certification. Representatives from the Office for Nuclear Regulation will be at the workshop to provide their feedback certification for robotics with higher levels of autonomy.
 
