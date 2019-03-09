@@ -39,7 +39,7 @@ The key points from the discussion sessions will be collated and distributed to 
 
 Registration is required to attend the workshop, but registration is **free**.
 
-To register for the workshop, please use the [Eventbrite](https://www.eventbrite.com/e/scoping-certifiable-autonomous-nuclear-robotics-workshop-tickets-57549509131?aff=cfp) page; where you will be able to pick which case study group you would like to be in.
+To register for the workshop, please use the [Eventbrite](https://www.eventbrite.co.uk/e/scoping-certifiable-autonomous-nuclear-robotics-workshop-tickets-57549509131) page; where you will be able to pick which case study group you would like to be in.
 
 
 ## Programme
