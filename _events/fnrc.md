@@ -13,6 +13,12 @@ series : true
  </div>
  </div>
 
+## Mailing List
+
+If you would like to keep up to date with the workshop series and its outputs you can sign up to our <a href="www.jiscmail.ac.uk/FNRC-WORKSHOPS" alt="Workshop's Mailing List Link">mailing list.</a> We will use this to announce new workshops and to communicate the workshops output.
+
+
+
 ## Workshops
 <ul>
 {% for event in site.events  %}
