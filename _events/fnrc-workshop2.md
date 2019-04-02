@@ -35,6 +35,15 @@ Output of the discussion sessions that is of particular interest include:
 
 The key points from the discussion sessions will be collated and distributed to the attendees after the workshop.
 
+## Location
+
+The workshop will be held at:
+
+Manchester Marriott Victoria & Albert Hotel,
+Water Street,
+Manchester, 
+M3 4JQ
+
 ## Registration
 
 Registration is required to attend the workshop, but registration is **free**.
