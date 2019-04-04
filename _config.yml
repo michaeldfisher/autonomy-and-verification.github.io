@@ -9,9 +9,12 @@ description: The Autonomy and Verification Laboratory at the University of Liver
 # Only use this if you are serving your site via Github Pages
 #github:
 
-  #url:  http://localhost:4000
+#url:  "http://localhost:4000"
+#images: "http://localhost:4000/images/"
+
 url: "https://autonomy-and-verification-uol.github.io"
 images: "https://autonomy-and-verification-uol.github.io/images/"
+
 
 header: no
 header_sm: images/ashton-small.png
@@ -19,6 +22,7 @@ header_med: images/ashton-med.png
 header_large: images/ashton-large.png
 header_xl: images/ashton-xl-desat.png
 
+include: [_events]
 
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
