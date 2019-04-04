@@ -2,6 +2,7 @@
 layout: event
 title: "Formal Methods for Autonomous Systems Workshop"
 date : 2019-10-11
+permalink: /events/fmas/
 image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
 
@@ -50,8 +51,15 @@ Topics of interest include (but are not limited to):
 Submission will be via [easychair](https://easychair.org/conferences/?conf=fmas2019), in LNCS format.
 Details about the **LNCS format** can be found on the [Springer Authors Guidelines page](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
+<article class="row">
+  <section class="columns large-8" markdown="1">
 Each submission will receive at least three, single-blind reviews. If a paper is accepted, at least one of the authors must attend the workshop to
-present their work. Revised selected papers will be published in the upcoming FM 2019 Workshops LNCS volume.
+present their work. Revised selected papers will be published in the upcoming FM 2019 Workshops [Lecture Notes in Computer Science](http://www.springer.com/lncs) volume.
+</section>
+  <section class="columns large-4" markdown="1">
+![LNCS Logo]({{site.images}}logos/LNCS-Logo_4c.png){:width="360px"}
+</section>
+</article>
 
 ## Important Dates
 
