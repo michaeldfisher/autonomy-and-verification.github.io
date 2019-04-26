@@ -10,87 +10,54 @@ date : 2019-04-12
 
 <div class="row" >
   <div class="columns large-4" >
-    <img alt="University of Liverpool logo" style="float: left; width : 70%; " src="{{site.images}}logos/UoL.png">
-  </div> 
-  <div class="columns large-8" markdown="1">	
-## Aim
+    <img alt="University of Liverpool logo" style="float: left; width : 22em; margin-top : 2em; margin-bottom : 2em; " src="{{site.images}}logos/UoL.png">
+    <img alt="RAIN Hub logo" style="float: left; width : 15em; " src="{{site.images}}logos/rain-logo.png">
+  </div>
+  <div class="columns large-8" markdown="1">
+## Workshop
 
-This workshop will explore the challenges of certifying nuclear robotic systems. Groups of attendees will examine realistic nuclear robotic case studies, discussing how the introduction of autonomy, machine learning, or long-term use will impact the verification techniques and evidence required for certification. Representatives from the Office for Nuclear Regulation will be at the workshop to provide their feedback certification for robotics with higher levels of autonomy.
+This workshop explored the challenges of verying autonomous robotic systems for use in the nuclear industry. It was held on the 12th of April 2019 in Manchester.
 
-Each discussion group will tackle one case study, considering in-depth the current challenges to certification and the future challenges as we introduce higher levels of autonomy. Attendees will have the opportunity to select one case study for the discussion sessions, and descriptions of the case studies will be available before the workshop.
-  </div> 
+Groups of attendees discussed concrete nuclear robotic case studies, including how the introduction of autonomy, machine learning, or long-term use will impact the verification techniques and evidence required for certification. Representatives from the Office for Nuclear Regulation attended the workshop and provided useful feedback on the discussions.
+
+## Presentations
+
+The workshop began with a recap of the role of the ONR in the nuclear industy. Then each of the four nuclear robotic system case studies was presented.
+These will be made available in due course.
+
+  </div>
 </div>
 
 
 
-## Attendees
+## Discussions and Report
 
-Attendees are welcome from industry, academia, or government; with an interest in robotics, autonomy, AI, safety, assurance, and certification; and particularly those involved in EPSRC/ISCF activities such as the RAIN Hub, the NCNR Hub, the Robotics for Nuclear Environments programme, and the Assuring Autonomy International Programme. All attendees should be prepared to participate fully in the discussion.
+The workshop had two discussion sessions, where discussion groups tackled one case study each.
 
-Output of the discussion sessions that is of particular interest include:
-* common barriers to introducing higher levels of autonomy,
-* techniques for the verification of autonomy,
-* observations about current safety documentation practice, and
-* areas for collaborative work in the future. 
+The first group discussion session focussed on the current challenges and hazards of the case study.
 
-The key points from the discussion sessions will be collated and distributed to the attendees after the workshop.
-
-## Location
-
-The workshop will be held at:
-
-Manchester Marriott Victoria & Albert Hotel,
-
-Water Street,
-
-Manchester, 
-
-M3 4JQ
-
-Directions to the hotel, and maps, can be found on the hotel's [Maps and Transportation](https://www.marriott.com/hotels/maps/travel/manva-manchester-marriott-victoria-and-albert-hotel/) page.
-
-## Registration
-
-Registration is required to attend the workshop, but registration is **free**.
-
-To register for the workshop, please use the [Eventbrite](https://www.eventbrite.co.uk/e/scoping-certifiable-autonomous-nuclear-robotics-workshop-tickets-57549509131) page; where you will be able to pick which case study group you would like to be in.
-
-
-## Programme
-
-### 1: Overview
-
-After a brief introduction, the 'owners' of robotic case study will give an overview of the robotic system and the task it performs-- highlighting and unusual hazards or challenges. Representatives from the ONR will give a broad overview of the key points of nuclear certification.
-
-### 2: Discussion Session 1 -- Current Hazards
-
-The first group discussion session; each discussion group will consider the certification of the current case study (before introducing any autonomous challenges).
-
-Each group will consider:
+Each group considered:
 * the key hazards that a safety case for that system must account for,
 * how to mitigate these hazards,
 * what evidence can be provided for these mitigating factors, and;
 * how we might constrain the system's environment to improve or ease its safety.
 
-At the end of this discussion session, each group will have the opportunity to feedback key points of their discussion to the other groups.
+The second group discussion session focussed on the hazards and challenges when autonomy is introduced into the case study.
 
-
-### 3: Discussion Session 2 -- Future Hazards
-
-The second discussion session; each discussion group will consider the certification of the case study if we introduce challenges posed by autonomy.
-
-Each group will consider the points from Discussion Session 1, but with their case study extended to include:
+Each group considered the impacts of:
 * higher levels of autonomy,
 * long-term autonomous systems,
 * disposal or recovery at the robot's end-of-life, and;
 * adaptive or machine learning components.
 
-Again, at the end of this discussion session, each group will have the opportunity to feedback key points of their discussion to the other groups.
+Some preliminary ideas that came from the discussions were:
+- relevant good practice for autonomy is still being developed,
+- the benefits of autonomy in the nuclear sector still need to be justified,
+- it may be advantageous to invite non-nuclear representatives to future events to help diversify the points of reference for robots and autonomy,
+- a RAIN ‘principles’ document would be beneficial, to help frame thinking when considering robotic and autonomous systems, and;
+- clear presentations of concrete problems from industry are very useful for the supply chain.
 
-### 4: Close
-
-To close the workshop, we will provide an initial overview of the key points from the discussion sessions and representatives from the ONR will provide initial feedback on their view of the discussions.
-
+A follow up report, summarising the interesting discussions from the workshop, is being prepared. Details of the report and presentations will be made available in due course.
 
 ## Organisers
 
@@ -104,4 +71,3 @@ To close the workshop, we will provide an initial overview of the key points fro
 * Howard Chapman, National Nuclear Laboratory
 * Andy Melia, Sellafield Ltd
 * Andrew Wallwork, Atomic Weapons Establishment
-
