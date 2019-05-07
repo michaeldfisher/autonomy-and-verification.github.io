@@ -54,7 +54,7 @@ Details about the **LNCS format** can be found on the [Springer Authors Guidelin
 <article class="row">
   <section class="columns large-8" markdown="1">
 Each submission will receive at least three, single-blind reviews. If a paper is accepted, at least one of the authors must attend the workshop to
-present their work. Revised selected papers will be published in the upcoming FM 2019 Workshops [Lecture Notes in Computer Science](http://www.springer.com/lncs) volume.
+present their work. Revised selected papers will be published in the upcoming FM 2019 Workshops [Lecture Notes in Computer Science](http://www.springer.com/lncs) volume. This will involve authors editing their papers based on the reviews and feedback at the workshop, which will then be reviewed again. The deadline for the LNCS volume is yet to be announced.
 </section>
   <section class="columns large-4" markdown="1">
 ![LNCS Logo]({{site.images}}logos/LNCS-Logo_4c.png){:width="360px"}
