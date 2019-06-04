@@ -1,37 +1,42 @@
 ---
 layout: event
 title: "Formal Methods for Autonomous Systems Workshop"
-date : 2019-10-11
+date : 2019-06-04
 image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
-
 
  <img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.images}}logos/FMAS-Logo.png">
 
 
-This one day workshop will bring together researchers working on a range of techniques for formal verification of autonomous systems, 
-to present recent work in the area, discuss key difficulties, and stimulate collaboration between the robotics and formal methods 
+This one day workshop will bring together researchers working on a range of techniques for formal verification of autonomous systems,
+to present recent work in the area, discuss key difficulties, and stimulate collaboration between the robotics and formal methods
 communities. This workshop will include invited speakers, contributed papers, experience reports, and a discussion panel.
 
 
 ## Scope
 
-Autonomous -- and Robotic -- Systems present unique challenges for formal methods. They are embodied entities that can interact with 
-the real world and make autonomous decisions. Amongst others, they can be viewed as safety-critical, cyber-physical, hybrid, and real-time systems. 
-Key issues for formal methods applied to autonomous systems include capturing how the system will deal with a dynamic external environment 
-and verification of the system's decision making capabilities -- including planning, ethical, and reconfiguration choices. Some autonomous 
-systems require certification before deployment, others require public trust for wide adoption; both of these scenarios are being tackled 
-by formal methods. 
+Autonomous -- and Robotic -- Systems present unique challenges for formal methods. They are embodied entities that can interact with
+the real world and make autonomous decisions. Amongst others, they can be viewed as safety-critical, cyber-physical, hybrid, and real-time systems.
+Key issues for formal methods applied to autonomous systems include capturing how the system will deal with a dynamic external environment
+and verification of the system's decision making capabilities -- including planning, ethical, and reconfiguration choices. Some autonomous
+systems require certification before deployment, others require public trust for wide adoption; both of these scenarios are being tackled
+by formal methods.
 
 The goals of this workshop are to bring together leading researchers in this area to present recent and ongoing work, including
-experience reports and case studies as well as identify future directions for this emerging application of formal methods. 
-This workshop is concerned with the use of formal methods to specify, model, or verify autonomous or robotic systems; in whole or in part. 
+experience reports and case studies as well as identify future directions for this emerging application of formal methods.
+This workshop is concerned with the use of formal methods to specify, model, or verify autonomous or robotic systems; in whole or in part.
 Submissions may focus on case studies that identify the challenges for formal methods in this area, or experience reports that provide guidelines
 for tackling these challenges. Work using integrated formal methods, or describing the future directions of this field, are particularly welcome.
 
 ## Programme Information
 
-The workshop will feature invited speakers (to be confirmed) and presentations of accepted papers. The workshop will also feature a discussion panel for a structured, whole-group conversation for scoping the future directions of formal methods for autonomous systems. 
+The workshop will feature invited speakers and presentations of accepted papers. The workshop will also feature a discussion panel for a structured, whole-group conversation for scoping the future directions of formal methods for autonomous systems.
+
+### Invited speakers
+
+Our confirmed invited speakers are:
+
+* [Claudio Menghi](https://claudiomenghi.github.io/index.html) whose research interests include the Engineering of Robotic Systems and has previous work using formal methods in this area.
 
 ## Submission Information
 
@@ -76,7 +81,7 @@ present their work. Revised selected papers will be published in the upcoming FM
 
 ## Program Committee
 
-* Mikael Asplund, Linkoping University 
+* Mikael Asplund, Linkoping University
 * Matthew Bradbury. University of Warwick
 * Jérémie Guiochet, University of Toulouse
 * Rob Hierons, University of Sheffield
@@ -91,4 +96,3 @@ present their work. Revised selected papers will be published in the upcoming FM
 * James Stovold, Swansea University
 * Silvia Lizeth Tapia Tarifa, University of Oslo
 * Hao Wu, Maynooth University
-
