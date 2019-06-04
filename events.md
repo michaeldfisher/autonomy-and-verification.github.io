@@ -21,7 +21,9 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
 
 <h2>Past Events</h2>
 <ul>
-  {% for event in site.events  %}
+  {% assign dates = site.events | sort: date %}
+  {% assign revDates = dates | reverse %}
+  {% for event in revDates  %}
     {% if event.series != true  and event.date < site.time %}
     <li>
       [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
