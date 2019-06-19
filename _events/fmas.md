@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Formal Methods for Autonomous Systems Workshop"
-date : 2019-06-04
+date : 2019-10-11
 permalink: /events/fmas/
 image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
