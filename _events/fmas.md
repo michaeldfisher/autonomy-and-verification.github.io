@@ -70,8 +70,8 @@ present their work. Revised selected papers will be published in the upcoming FM
 
 ## Important Dates
 
-* **Submission: 30th June  2019**
-* Notification: 31st July 2019
+* **Submission: ~30th June  2019~ 7th of July 2019 ([AOE](https://www.timeanddate.com/time/zones/aoe))**
+* Notification: ~31st July 2019~ 7th of August 2019
 * Final Version due: 1st September 2019
 * Workshop: 11th of October 2019 (at [Formal Methods 2019](http://formalmethods2019.inesctec.pt/))
 
