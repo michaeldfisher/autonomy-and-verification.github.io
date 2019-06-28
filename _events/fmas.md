@@ -6,6 +6,8 @@ permalink: /events/fmas/
 image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
 
+### A Satellite Workshop at [Formal Methods 2019](http://formalmethods2019.inesctec.pt/)
+
  <img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.images}}logos/FMAS-Logo.png">
 
 
