@@ -40,7 +40,7 @@ The workshop will feature invited speakers and presentations of accepted papers.
 Our confirmed invited speakers are:
 
 * [Claudio Menghi](https://claudiomenghi.github.io/index.html), from the University of Luxembourg. His research interests are in the field of formal methods and software engineering, with specific interests in cyber-physical systems, robotics, and formal verification.  
-* [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/), from Iowa State University. Her research interest cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
+* [Kristin Y. Rozier](https://www.cs.iastate.edu/people/kristin-yvonne-rozier), from Iowa State University. Her research interest cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
 
 
 ## Submission Information
@@ -72,7 +72,7 @@ present their work. Revised selected papers will be published in the upcoming FM
 
 ## Important Dates
 
-* **Submission: ~~30th June  2019~~ 7th of July 2019 ([AOE](https://www.timeanddate.com/time/zones/aoe))**
+* **Submission: ~~30th June  2019~~ ~~7th of July 2019 ([AOE](https://www.timeanddate.com/time/zones/aoe))~~**
 * Notification: ~~31st July 2019~~ 7th of August 2019
 * Final Version due: 1st September 2019
 * Workshop: 11th of October 2019 (at [Formal Methods 2019](http://formalmethods2019.inesctec.pt/))
