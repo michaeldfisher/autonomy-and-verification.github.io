@@ -14,7 +14,7 @@ The laboratory is led by [Professor Michael Fisher](https://cgi.csc.liv.ac.uk/~m
 
 <br/>
 <p style="text-align: center;">
-<img src="{{site.url}}/images/ashton-home.png" alt="Picture of the Ashton Building, University of Liverpool, UK"/>
+<img src="{{site.url}}/images/ashton-home.png" alt="Picture of the Ashton Building, University of Liverpool, UK" title="Picture of the Ashton Building, University of Liverpool, UK"/>
 </p>
 
 </div>
