@@ -35,12 +35,68 @@ for tackling these challenges. Work using integrated formal methods, or describi
 
 The workshop will feature invited speakers and presentations of accepted papers. The workshop will also feature a discussion panel for a structured, whole-group conversation for scoping the future directions of formal methods for autonomous systems.
 
+### Registration
+
+If you wish to attend FMAS please register via the [FM'19 registration page](https://bit.ly/2NTR9SR). Please ensure that you mention FMAS when asked which workshops you're attending during the registration process, this ensures that we can fund our invited speakers.
+
 ### Invited speakers
 
 Our confirmed invited speakers are:
 
-* [Claudio Menghi](https://claudiomenghi.github.io/index.html), from the University of Luxembourg. His research interests are in the field of formal methods and software engineering, with specific interests in cyber-physical systems, robotics, and formal verification.  
-* [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/), from Iowa State University. Her research interest cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
+* [Claudio Menghi](https://claudiomenghi.github.io/index.html), from the University of Luxembourg. Claudio's research interests are in the field of formal methods and software engineering, with specific interests in cyber-physical systems, robotics, and formal verification.  
+* [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/), from Iowa State University. Kristin's research interest cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
+
+### Accepted Papers
+
+<style> .paper-title {font-style: italic; } </style>
+<style> .paper-details{ list-style-type: none; } </style>
+
+* <span class="paper-title">A Temporal Logic Semantics for Teleo-Reactive Procedures</span>
+<ul class="paper-details">
+<li> <b>Authors:</b> Keith Clark, <a href="http://brijeshdongol.github.io">Brijesh Dongol</a>, and Peter Robinson. </li>
+<li> <b>Abstract: </b>Teleo-Reactive (TR) procedures are a robotic agent programming language proposed by Nils Nilsson. Each parameterised procedure comprises a sequence of guarded action rules where the guards of later rules are sub-goals of the guard of the first rule. We informally describe the evaluation semantics of a TR procedure call. We then formalise the concept of a TR procedure call evaluation by expressing key properties in LTL. Finally we show how the LTL statements can be used to prove key properties of a simple TR program making use of assumptions about the correspondence between the agent’s Belief Store percept facts and properties of the perceived world, and between the agent’s actions and environment change.
+</li>
+</ul>
+
+
+
+* <span class="paper-title">Verification of Fair Controllers for Urban Traffic Manoeuvres at Intersections</span>
+<ul class="paper-details">
+
+<li> <b>Authors:</b> <a href="https://uol.de/csd/persons/maike-schwammberger-msc/">Maike Schwammberger</a>, and <a href="https://uol.de/csd/persons/christopher-bischopink-msc/">Christopher Bischopink</a> </li>
+
+<li>
+<b>Abstract: </b>Nowadays, autonomous crossing manoeuvres at intersections are especially challenging. In related work, a crossing controller for provably safe autonomous urban traffic manoeuvres was introduced. We extend this controller by a decentralised scheduling mechanism that ensures fair behaviour of the controller and also guarantees bounded liveness. We verify the correctness of our extension by an implementation and analysis with UPPAAL Stratego.
+</li>
+
+</ul>
+
+* <span class="paper-title">CriSGen: Constraint-based Generation of Critical Scenarios for Autonomous Vehicles</span>
+<ul class="paper-details">
+<li> <b>Authors:</b> Andreas Nonnengart, Matthias Klusch, and Christian Mueller </li>
+<li> <b>Abstract: </b>Ensuring pedestrian-safety is paramount to the acceptance
+and success of autonomous cars. The scenario-based training and testing
+of such self-driving vehicles in virtual driving simulation environments
+increasingly gained attention in the past years. Key challenge is the automated generation of critical traffic scenarios which usually are rare in
+real-world traffic, while computing and testing all possible scenarios is
+infeasible in practice. In this paper, we present a formal method-based
+approach CriSGen for an automated and complete generation of critical
+traffic scenarios for virtual training of self-driving cars. These scenarios
+are determined as close variants of given but uncritical and formally abstracted scenarios via reasoning on their non-linear arithmetic constraint formulas, such that the original maneuver of the self-driving car in them will not be pedestrian-safe anymore, enforcing it to further adapt the behavior during training. </li>
+</ul>
+
+* <span class="paper-title">Towards a Mission Definition, Verification and Validation Toolchain</span>
+<ul class="paper-details">
+<li> <b>Authors:</b> Louis Viard, Laurent Ciarletta and Pierre-Etienne Moreau </li>
+<li> <b>Abstract: </b>Safe operation of Cyber-Physical Systems such as Unmanned Aircraft Systems requires guarantees not only on the system, but also on the mission. Following approaches that are used to produce robust Cyber-Physical Controllers, we present the architecture of a mission definition, verification and validation toolchain. We conclude by reporting on the current state of the authors' implementation of this framework.</li>
+</ul>
+
+* <span class="paper-title">A Model Checking Agent-Based Architecture for Representing the Rules of the Road on Autonomous Vehicles </span>
+<ul class="paper-details">
+<li> <b>Authors:</b> <a href="https://sites.google.com/view/gleifer">Gleifer Alves</a>, <a href="http://www.csc.liv.ac.uk/~lad">Louise Dennis</a> and <a href="http://www.csc.liv.ac.uk/~michael">Michael Fisher</a> </li>
+<li> <b>Abstract: </b>The design of autonomous vehicles includes obstacle detection and avoidance, route planning, speed control, etc. However, there is a gap considering how the rules of the road should be represented in an autonomous vehicle. Additionally, it is necessary to understand the behaviour of autonomous systems in order to check whether or not they work according to the rules of the road. Here, we propose a model checking agent-based architecture to embed the rules of the road in an agent representing the behaviour of an autonomous vehicle. </li>
+</ul>
+
 
 
 ## Submission Information
@@ -72,8 +128,8 @@ present their work. Revised selected papers will be published in the upcoming FM
 
 ## Important Dates
 
-* **Submission: ~~30th June  2019~~ 7th of July 2019 ([AOE](https://www.timeanddate.com/time/zones/aoe))**
-* Notification: ~~31st July 2019~~ 7th of August 2019
+* **Submission: ~~30th June  2019~~ ~~7th of July 2019~~ ([AOE](https://www.timeanddate.com/time/zones/aoe))**
+* Notification: ~~31st July 2019~~ ~~7th of August 2019~~
 * Final Version due: 1st September 2019
 * Workshop: 11th of October 2019 (at [Formal Methods 2019](http://formalmethods2019.inesctec.pt/))
 
