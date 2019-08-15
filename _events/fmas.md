@@ -97,7 +97,7 @@ are determined as close variants of given but uncritical and formally abstracted
 <li> <b>Abstract: </b>The design of autonomous vehicles includes obstacle detection and avoidance, route planning, speed control, etc. However, there is a gap considering how the rules of the road should be represented in an autonomous vehicle. Additionally, it is necessary to understand the behaviour of autonomous systems in order to check whether or not they work according to the rules of the road. Here, we propose a model checking agent-based architecture to embed the rules of the road in an agent representing the behaviour of an autonomous vehicle. </li>
 </ul>
 
-
+Program available at: <a href="https://easychair.org/smart-program/FMAS2019/">https://easychair.org/smart-program/FMAS2019/</a>
 
 ## Submission Information
 
