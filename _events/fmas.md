@@ -44,7 +44,7 @@ If you wish to attend FMAS please register via the [FM'19 registration page](htt
 Our confirmed invited speakers are:
 
 * [Claudio Menghi](https://claudiomenghi.github.io/index.html), from the University of Luxembourg. Claudio's research interests are in the field of formal methods and software engineering, with specific interests in cyber-physical systems, robotics, and formal verification.  
-* [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/), from Iowa State University. Kristin's research interest cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
+* [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/), from Iowa State University. Kristin's research interests cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
 
 ### Accepted Papers
 
