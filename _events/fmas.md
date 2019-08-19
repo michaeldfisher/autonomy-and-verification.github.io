@@ -41,12 +41,30 @@ If you wish to attend FMAS please register via the [FM'19 registration page](htt
 
 ### Invited speakers
 
-Our confirmed invited speakers are:
+<style> .talk-title {font-style: italic; } </style>
+<style> .talk-details{ list-style-type: none; } </style>
+
+We have to invited speakers for FMAS.
 
 * [Claudio Menghi](https://claudiomenghi.github.io/index.html), from the University of Luxembourg. Claudio's research interests are in the field of formal methods and software engineering, with specific interests in cyber-physical systems, robotics, and formal verification.  
+<ul class="talk-details">
+
+<li> <b> Title </b> : <span class="talk-title">Formal Methods Meet Autonomous Systems:a Journey on a Two-Year Research Collaboration with Industry </span> </li>
+<li> <b> Abstract </b> : Autonomous - and Robotic - Systems are systems made up of collaborating computational elements, interacting and adapting to the physical environment and  making  autonomous  decisions.  Formal  methods  provide  mathematically-based  techniques  for  the  specification  and  development  of  software  and  hard-ware systems. The adoption of formal methods by the industry developing autonomous and robotic systems is, however, still slow.This talk reports on a two-year research collaboration with industry focused on applying formal method techniques in the development of autonomous systems. First, it discusses the main challenges and results achieved in the definition of specification patterns for robotic missions, a project in collaboration with PAL Robotics and BOSCH. Mission specification patterns provide logic-based solutions for recurrent specification problems where developers have to define the desired behaviour of a robotic application (a.k.a missions). Then,it discusses a procedure for generating online test oracles from logic-based formulations  of  functional  requirements  of  autonomous  systems,  a  project  in collaboration with Luxspace and QRA Corp. The procedure addresses a set of real-world challenges related to autonomous systems and has been evaluated on a real-world satellite system model. Finally, the talk presents a set of challenges and opportunities that emerged from the two-year journey of collaboration with industry </li>
+</ul>
+
 * [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/), from Iowa State University. Kristin's research interests cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
 
+<ul class="talk-details">
+<li> <b>Title</b> : <span class="talk-title"> Runtime Reasoning that Really Flies </span> </li>
+<li> <b>Abstract</b>: Real-time, on-board runtime reasoning about system safety and security is required for autonomous systems, including most everything that flies: aircraft, spacecraft, satellites, and the robotic systems therein. The field of runtime verification (RV) is vast, and quickly growing, yet when it comes to real-life autonomous systems, current RV capabilities just don't fly. There is a dearth of RV tools that can operate within the constraints of real-life embedded operations that limit the system instrumentation, space, timing, power, weight, cost, operating conditions, and other resources. Even when we devise tools for embedded operation, RV must first clear the tall hurdles of input specifications, validation, verification, and flight certification. We highlight case studies where RV has recently risen to the occasion of reasoning on-board real-life autonomous systems, such as Unmanned Aerial Systems and NASA's Robonaut2, and examine the way up from here. What will it take for RV to really take off?</li>
+</ul>
+
 ### Accepted Papers
+
+We have accepted the following papers for FMAS.
+
+Program available at: <a href="https://easychair.org/smart-program/FMAS2019/">https://easychair.org/smart-program/FMAS2019/</a>
 
 <style> .paper-title {font-style: italic; } </style>
 <style> .paper-details{ list-style-type: none; } </style>
@@ -97,7 +115,7 @@ are determined as close variants of given but uncritical and formally abstracted
 <li> <b>Abstract: </b>The design of autonomous vehicles includes obstacle detection and avoidance, route planning, speed control, etc. However, there is a gap considering how the rules of the road should be represented in an autonomous vehicle. Additionally, it is necessary to understand the behaviour of autonomous systems in order to check whether or not they work according to the rules of the road. Here, we propose a model checking agent-based architecture to embed the rules of the road in an agent representing the behaviour of an autonomous vehicle. </li>
 </ul>
 
-Program available at: <a href="https://easychair.org/smart-program/FMAS2019/">https://easychair.org/smart-program/FMAS2019/</a>
+
 
 ## Submission Information
 
