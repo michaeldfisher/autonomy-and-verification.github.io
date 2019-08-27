@@ -35,6 +35,8 @@ for tackling these challenges. Work using integrated formal methods, or describi
 
 The workshop will feature invited speakers and presentations of accepted papers. The workshop will also feature a discussion panel for a structured, whole-group conversation for scoping the future directions of formal methods for autonomous systems.
 
+Program available at: <a href="https://easychair.org/smart-program/FMAS2019/">https://easychair.org/smart-program/FMAS2019/</a>
+
 ### Registration
 
 If you wish to attend FMAS please register via the [FM'19 registration page](https://bit.ly/2NTR9SR). Please ensure that you mention FMAS when asked which workshops you're attending during the registration process, this ensures that we can fund our invited speakers.
@@ -63,8 +65,6 @@ We have to invited speakers for FMAS.
 ### Accepted Papers
 
 We have accepted the following papers for FMAS.
-
-Program available at: <a href="https://easychair.org/smart-program/FMAS2019/">https://easychair.org/smart-program/FMAS2019/</a>
 
 <style> .paper-title {font-style: italic; } </style>
 <style> .paper-details{ list-style-type: none; } </style>
