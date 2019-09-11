@@ -62,6 +62,13 @@ twitter_card: true
 twitter_image: https://autonomy-and-verification-uol.github.io/images/ashton-home.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Usernames for things
-
-
 researchgate_username: Autonomy-and-Verification-Lab-Michael-Fisher
+
+# URLS
+UoL_URL: https://www.liverpool.ac.uk/computer-science/
+UoY_URL: https://www.cs.york.ac.uk/
+AA_URL: https://www.york.ac.uk/assuring-autonomy/
+ONR_URL: http://www.onr.org.uk/
+NCNR_HUB_URL: https://www.ncnr.org.uk/
+RAIN_HUB_URL: https://rainhub.org.uk/
+VV_NETWORK_URL: https://vavas.org/

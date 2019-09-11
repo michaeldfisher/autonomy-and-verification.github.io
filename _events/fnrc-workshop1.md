@@ -33,10 +33,10 @@ We had presentations (available below) from representatives by the Universities 
 * Introduction to the [Verification & Validation of Autonomous Systems Network]({{site.VV_NETWORK_URL}})
     - [Michael Fisher](https://cgi.csc.liv.ac.uk/~michael/) <br>
     - Download: <a href="{{site.url}}/files/presentations/workshop_sept18-intro.pdf" download="" > <button type="button" > Slides </button></a>
-* Brief introduction to the [NCNR Hub]({{ site.NCNR_HUB_URL }})
-    - [Michael Fisher](https://cgi.csc.liv.ac.uk/~michael/) <br>
+* Brief introduction to the [NCNR Hub]({{ site.NCNR_HUB_URL}})
+    - [Michael Fisher](https://cgi.csc.liv.ac.uk/~michael/) (Members of the NCNR Hub were unable to attend)<br>
     - Download: <a href="{{site.url}}/files/presentations/workshop_sept18-ncnr.pdf" download="" > <button type="button" > Slides </button></a>
-* Introduction to the [RAIN Hub]({{ site.RAIN_HUB_URL }})
+* Introduction to the [RAIN Hub]({{ site.RAIN_HUB_URL}})
     - [Barry Lennox](https://www.research.manchester.ac.uk/portal/barry.lennox.html) <br>
     - Download (119MB): <a href="http://cgi.csc.liv.ac.uk/~mattlck/FNRC/files/presentations/RAIN_Lennox.pptx" download="" > <button type="button" > Slides </button></a>
 * Safety Cases for Autonomous Systems, Safety Cases, Principles of Safe Systems, Safe System Design, Safety Case Principles, and Safety Case Shortcomings & Traps
