@@ -90,7 +90,7 @@ Some preliminary ideas that came from the discussions were:
 - a RAIN ‘principles’ document would be beneficial, to help frame thinking when considering robotic and autonomous systems, and;
 - clear presentations of concrete problems from industry are very useful for the supply chain.
 
-A follow up report, summarising the interesting discussions from the workshop, is being prepared. Details of the report and presentations will be made available in due course.
+A follow up report, summarising the interesting discussions from the workshop, is available for download: <a href="{{site.url}}/files/fnrc/Scoping-Workshop-Report.pdf" download="" > <button type="button" > Report </button></a>.
 
 
 ## Organisers
