@@ -11,10 +11,16 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
 <h2>Events</h2>
   <ul>
     {% for event in site.events  %}
-      {% if event.series != true and event.date >= site.time %}
-      <li>
-        [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
-      </li>
+      {% if event.date >= site.time %}
+
+        {% if event.externalURL and event.externalURL != "" and event.externalURL != nil %}
+        [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
+
+        {% elsif event.series != true %}
+        <li>
+          [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
+        </li>
+       {% endif%}
       {% endif %}
     {% endfor %}
   </ul>
@@ -24,11 +30,17 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
   {% assign dates = site.events | sort: date %}
   {% assign revDates = dates | reverse %}
   {% for event in revDates  %}
-    {% if event.series != true  and event.date < site.time %}
+  {% if event.date < site.time %}
+
+    {% if event.externalURL and event.externalURL != "" and event.externalURL != nil %}
+    [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
+
+    {% elsif event.series != true %}
     <li>
       [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
     </li>
-    {% endif %}
+   {% endif%}
+  {% endif %}
   {% endfor %}
 </ul>
 

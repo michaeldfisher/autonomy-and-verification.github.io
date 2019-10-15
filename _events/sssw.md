@@ -2,6 +2,7 @@
 layout: event
 title: "Space Security Scoping Workshop"
 date : 2019-02-01
+externalURL: "https://cgi.csc.liv.ac.uk/~marie/scopingsecwk/"
 ---
 
 <article class="row">

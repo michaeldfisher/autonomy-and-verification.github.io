@@ -31,7 +31,18 @@ title: "page title"
 Using the `event` layout will add the "Back to Events" link to the top of the page.
 The `"page title"` will be displayed at the top of the page.
 
-### Adding and Event Summary
+### External Event Pages
+
+If your event already has an external page hosted elsewhere, but you'd still like it to be included on the lab's events list, then you can add
+
+```
+externalURL: "your link"
+```
+
+to the header of the markdown file. Here, "your link" should be the url of the external page. This will generate an entry in the events list, but it will simply link to the external page (and an external link icon will show after the name to indicate this to the users).
+
+
+### Adding an Event Summary
 
 In summary, to add an event page:
 1. make a new markdown file in the `_events` folder,
