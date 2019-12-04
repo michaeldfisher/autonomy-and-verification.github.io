@@ -175,6 +175,7 @@ present their work. Revised selected papers will be published in the upcoming FM
 * Bruno Lacerda, Oxford University
 * Sven Linker, University of Liverpool
 * Tiziana Margaria, University of Limerick
+* Dominique Mery, Université de Lorraine
 * Alice Miller, University of Glasgow
 * Alvaro Miyazawa, University of York
 * Kristin Rozier, University of Iowa
