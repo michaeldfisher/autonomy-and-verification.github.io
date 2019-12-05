@@ -1,0 +1,54 @@
+I"å<html>
+
+<head>
+  <title>Workshop on Agents and Robots for reliable Engineered Autonomy (AREA 2020)</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900&amp;display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
+  <link rel="stylesheet" href="css/animate.css" />
+
+  <link rel="stylesheet" href="css/owl.carousel.min.css" />
+  <link rel="stylesheet" href="css/owl.theme.default.min.css" />
+  <link rel="stylesheet" href="css/magnific-popup.css" />
+
+  <link rel="stylesheet" href="css/aos.css" />
+
+  <link rel="stylesheet" href="css/ionicons.min.css" />
+
+  <link rel="stylesheet" href="css/flaticon.css" />
+  <link rel="stylesheet" href="css/icomoon.css" />
+  <link rel="stylesheet" href="css/peppiaa.css" />
+</head>
+
+<body>
+
+<section>
+<div class="container">
+  <div class="row d-flex">
+    <div class="col-md-5 order-md-last wrap-about align-items-stretch">
+      <div class="wrap-about-border ftco-animate">
+      <div class="text" align="left">
+        <h3>Program committee</h3>
+        <ul>
+          <li>placeholder</li>
+          <li>placeholder</li>
+          <li>placeholder</li>
+          <li>placeholder</li>
+        </ul>
+      </div>
+      </div>
+    </div>
+    <div class="col-md-7 wrap-about pr-md-4 ftco-animate">
+asdasdsadasd
+    </div>
+  </div>
+</div>
+</section>
+
+</body>
+
+</html>
+:ET
