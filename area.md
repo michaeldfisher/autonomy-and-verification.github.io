@@ -6,6 +6,7 @@ permalink: /events/area/
 image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
 
+<img src="../../images/logos/area_logo_1.png" style="width:250px"/>
 
 <div class="columns large-7" >
 <div markdown="1">
@@ -48,7 +49,7 @@ This workshop aims to bring together researchers from the autonomous agents and 
 
 <p align="justify">
 This event is planned as a one-day workshop. Our aim is to have three reviews per paper. At least one of the authors of an accepted paper should attend the workshop to present their work. Depending on the number of submissions, we would like to have a discussion panel at the end. We also expect to have at least one invited talk, focused on autonomous decision-making with agents applied to robotic systems.
-</p> 
+</p>
 --->
 
 ## Submission instructions
