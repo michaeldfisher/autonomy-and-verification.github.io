@@ -36,10 +36,6 @@ image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.pn
 
 <div class="columns large-7" >
 <div markdown="1">
-  
-<div>
-<img src="../../images/logos/area_logo_1.png" style="width:250px"/>
-</div>
 
 <p align="justify">
 Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios is largely adopted when logical distribution is needed, while still limited when physical distribution is necessary.
@@ -114,9 +110,6 @@ Submission link: TBD
 <div class="columns large-5" >
 <div markdown="1">
 
-<div>
-<img src="../../images/logos/ecai_logo.png" style="width:250px"/>
-</div>
 
 ## Important dates
 
