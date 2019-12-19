@@ -71,14 +71,14 @@ This workshop aims to bring together researchers from the autonomous agents and 
 </ul>
 
 <!---
-## Workshop format
+## Workshop Format
 
 <p align="justify">
 This event is planned as a one-day workshop. Our aim is to have three reviews per paper. At least one of the authors of an accepted paper should attend the workshop to present their work. Depending on the number of submissions, we would like to have a discussion panel at the end. We also expect to have at least one invited talk, focused on autonomous decision-making with agents applied to robotic systems.
 </p>
 --->
 
-## Submission instructions
+## Submission Instructions
 
 <p align="justify">
 Partecipants are invited to submit either:
@@ -97,7 +97,7 @@ Partecipants are invited to submit either:
 </p>
 <p align="justify">
 Regular papers must not exceed fifteen (15) pages single column and short papers must not exceed seven (7) pages single column, excluding references and appendices.
-Submissions are accepted in PDF format only. <!--, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>). -->
+Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews. We are in the process of applying for a special issue for the post-proceedings where revised selected papers will be published. <!--, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>). -->
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
@@ -111,7 +111,7 @@ Submission link: TBD
 <div markdown="1">
 
 
-## Important dates
+## Important Dates
 
 <ul>
 <li>Submission Deadline: 2nd February 2020</li>
@@ -123,8 +123,8 @@ Submission link: TBD
 ## Organisers
 
 <ul>
-  <li>Rafael C. Cardoso, University of Liverpool (UK)</li>
-  <li>Angelo Ferrando, University of Liverpool (UK)</li>
+  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Liverpool (UK)</li>
+  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Liverpool (UK)</li>
   <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
   <li>Claudio Menghi, University of Luxembourg (Luxembourg)</li>
   <li>Daniela Briola, University of Milano-Bicocca (Italy)</li>
