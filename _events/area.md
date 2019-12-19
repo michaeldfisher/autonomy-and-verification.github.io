@@ -81,9 +81,11 @@ Partecipants are invited to submit either:
 </p>
 <p align="justify">
 Regular papers must not exceed fifteen (15) pages and short papers must not exceed seven (7) pages, excluding references and appendices.
-Submissions are accepted in PDF format only, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>).
+Submissions are accepted in PDF format only. <!--, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>). -->
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
+<br><br>
+Submission link: TBD
 </p>
 
 </div>
