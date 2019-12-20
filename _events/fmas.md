@@ -1,185 +1,140 @@
 ---
 layout: event
-title: "Formal Methods for Autonomous Systems Workshop"
-date : 2019-10-11
-permalink: /events/fmas/
+title: "Workshop on Agents and Robots for reliable Engineered Autonomy"
+date : 2020-05-8
+permalink: /events/area/
 image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
 ---
 
-### A Satellite Workshop at [Formal Methods 2019](http://formalmethods2019.inesctec.pt/)
+<div class="columns large-7" >
+<div markdown="1">
+  
+<!--<div style="float:left; clear:right; width:50%">
+<img src="../../images/logos/area_logo_1.png" style="width:250px"/>
+</div>-->
+<div>
+<img src="../../images/logos/area_logo_1.png" style="width:250px"/>
+</div>
 
- <img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.images}}logos/FMAS-Logo.png">
+</div>
+</div>
+
+<div class="columns large-5" >
+<div markdown="1">
+  
+<!--<div style="float:left; clear:right; width:50%">
+<img src="../../images/logos/ecai_logo.png" style="width:250px"/>
+</div>-->
+<div>
+<img src="../../images/logos/ecai_logo.png" style="width:250px"/>
+</div>
+
+</div>
+</div>
 
 
-This one day workshop will bring together researchers working on a range of techniques for formal verification of autonomous systems,
-to present recent work in the area, discuss key difficulties, and stimulate collaboration between the robotics and formal methods
-communities. This workshop will include invited speakers, contributed papers, experience reports, and a discussion panel.
 
+<div class="columns large-7" >
+<div markdown="1">
 
-## Scope
+<p align="justify">
+Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios is largely adopted when logical distribution is needed, while still limited when physical distribution is necessary.
+In parallel, robots are no longer used only in industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue. Robots in these applications often benefit from (or require) some level (semi or full) of autonomy. Thus, multi-agent solutions can be exploited in robotic scenarios, considering their strong similarity both in terms of logical distribution and interaction among autonomous entities.<br>
+<br>
+The autonomous behaviour responsible for decision-making should (ideally) be verifiable since these systems are expensive to produce and are often deployed in safety-critical situations. Thus, verification and validation are important and necessary steps towards providing assurances about the reliability of autonomy in these systems.
+This workshop aims to bring together researchers from the autonomous agents and the robotics communities, as combining knowledge coming from these two research areas may lead to innovative approaches that solve complex problems related with the verification and validation of autonomous robotic systems. Consequently, we encourage submissions that combine agents, robots, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is clear.
+</p>
 
-Autonomous -- and Robotic -- Systems present unique challenges for formal methods. They are embodied entities that can interact with
-the real world and make autonomous decisions. Amongst others, they can be viewed as safety-critical, cyber-physical, hybrid, and real-time systems.
-Key issues for formal methods applied to autonomous systems include capturing how the system will deal with a dynamic external environment
-and verification of the system's decision making capabilities -- including planning, ethical, and reconfiguration choices. Some autonomous
-systems require certification before deployment, others require public trust for wide adoption; both of these scenarios are being tackled
-by formal methods.
+<!---
+## Motivation
 
-The goals of this workshop are to bring together leading researchers in this area to present recent and ongoing work, including
-experience reports and case studies as well as identify future directions for this emerging application of formal methods.
-This workshop is concerned with the use of formal methods to specify, model, or verify autonomous or robotic systems; in whole or in part.
-Submissions may focus on case studies that identify the challenges for formal methods in this area, or experience reports that provide guidelines
-for tackling these challenges. Work using integrated formal methods, or describing the future directions of this field, are particularly welcome.
+## Aim
+--->
 
-## Programme Information
+## List of Topics
 
-The workshop will feature invited speakers and presentations of accepted papers. The workshop will also feature a discussion panel for a structured, whole-group conversation for scoping the future directions of formal methods for autonomous systems.
-
-Program available at: <a href="https://easychair.org/smart-program/FMAS2019/">https://easychair.org/smart-program/FMAS2019/</a>
-
-### Registration
-
-If you wish to attend FMAS please register via the [FM'19 registration page](https://bit.ly/2NTR9SR). Please ensure that you mention FMAS when asked which workshops you're attending during the registration process, this ensures that we can fund our invited speakers.
-
-### Invited speakers
-
-<style> .talk-title {font-style: italic; } </style>
-<style> .talk-details{ list-style-type: none; } </style>
-
-We have to invited speakers for FMAS.
-
-* [Claudio Menghi](https://claudiomenghi.github.io/index.html), from the University of Luxembourg. Claudio's research interests are in the field of formal methods and software engineering, with specific interests in cyber-physical systems, robotics, and formal verification.  
-<ul class="talk-details">
-
-<li> <b> Title </b> : <span class="talk-title">Formal Methods Meet Autonomous Systems:a Journey on a Two-Year Research Collaboration with Industry </span> </li>
-<li> <b> Abstract </b> : Autonomous - and Robotic - Systems are systems made up of collaborating computational elements, interacting and adapting to the physical environment and  making  autonomous  decisions.  Formal  methods  provide  mathematically-based  techniques  for  the  specification  and  development  of  software  and  hard-ware systems. The adoption of formal methods by the industry developing autonomous and robotic systems is, however, still slow.This talk reports on a two-year research collaboration with industry focused on applying formal method techniques in the development of autonomous systems. First, it discusses the main challenges and results achieved in the definition of specification patterns for robotic missions, a project in collaboration with PAL Robotics and BOSCH. Mission specification patterns provide logic-based solutions for recurrent specification problems where developers have to define the desired behaviour of a robotic application (a.k.a missions). Then,it discusses a procedure for generating online test oracles from logic-based formulations  of  functional  requirements  of  autonomous  systems,  a  project  in collaboration with Luxspace and QRA Corp. The procedure addresses a set of real-world challenges related to autonomous systems and has been evaluated on a real-world satellite system model. Finally, the talk presents a set of challenges and opportunities that emerged from the two-year journey of collaboration with industry </li>
+<ul>
+  <li> Agent-based modular architectures applicable to robots </li>
+  <li> Agent oriented software engineering to model high-level control in robotic development</li>
+  <li> Agent programming languages and tools for developing robotic or intelligent autonomous systems</li>
+  <li> Coordination, interaction, and negotiation protocols for agents and robots</li>
+  <li> Distributed problem solving and automated planning in autonomous systems</li>
+  <li> Fault tolerance, health-management, and long-term autonomy</li>
+  <li> Real world applications of autonomous agents and multi-agent systems in robotics</li>
+  <li> Real-time multi-agent systems</li>
+  <li> Reliable software engineering of autonomy</li>
+  <li> Runtime verification of autonomous agents and robotic systems</li>
+  <li> Task and resource allocation in multi-robot systems</li>
+  <li> Verification and validation of autonomous systems</li>
+  <li> Testing and simulation tools and techniques for autonomous or robotic systems</li>
+  <li> Self healing entities and systems</li>
 </ul>
 
-* [Kristin Y. Rozier](https://www.aere.iastate.edu/kyrozier/), from Iowa State University. Kristin's research interests cover a wide range of formal methods, including model checking and runtime verification, as well as system and safety health management for intelligent, autonomous Unmanned Aerial Systems.
+<!---
+## Workshop Format
 
-<ul class="talk-details">
-<li> <b>Title</b> : <span class="talk-title"> Runtime Reasoning that Really Flies </span> </li>
-<li> <b>Abstract</b>: Real-time, on-board runtime reasoning about system safety and security is required for autonomous systems, including most everything that flies: aircraft, spacecraft, satellites, and the robotic systems therein. The field of runtime verification (RV) is vast, and quickly growing, yet when it comes to real-life autonomous systems, current RV capabilities just don't fly. There is a dearth of RV tools that can operate within the constraints of real-life embedded operations that limit the system instrumentation, space, timing, power, weight, cost, operating conditions, and other resources. Even when we devise tools for embedded operation, RV must first clear the tall hurdles of input specifications, validation, verification, and flight certification. We highlight case studies where RV has recently risen to the occasion of reasoning on-board real-life autonomous systems, such as Unmanned Aerial Systems and NASA's Robonaut2, and examine the way up from here. What will it take for RV to really take off?</li>
+<p align="justify">
+This event is planned as a one-day workshop. Our aim is to have three reviews per paper. At least one of the authors of an accepted paper should attend the workshop to present their work. Depending on the number of submissions, we would like to have a discussion panel at the end. We also expect to have at least one invited talk, focused on autonomous decision-making with agents applied to robotic systems.
+</p>
+--->
+
+## Submission Instructions
+
+<p align="justify">
+Partecipants are invited to submit either:
+<ul>
+  <li><b>a full length regular paper</b>
+    &mdash;
+    a technical paper for describing technically sound, innovative ideas that can advance the engineering/reliability of agents and robots;
+    an application paper, with emphasis on robotic applications where agents techniques have been applied;
+    a survey paper on one of the topics of interest.</li>
+  <li><b>a short paper</b>
+    &mdash;
+    a position paper describing relevant questions and issues that the participants feel should be addressed;
+    a demo paper describing a demonstration of an agent/robotic application, system or tool;
+    a new idea in the field which is not ready for publication as regular paper.</li>
 </ul>
+</p>
+<p align="justify">
+Regular papers must not exceed fifteen (15) pages single column and short papers must not exceed seven (7) pages single column, excluding references and appendices.
+Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews. We are in the process of applying for a special issue for the post-proceedings where revised selected papers will be published. <!--, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>). -->
+<br><br>
+<b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
+<br><br>
+Submission link: TBD
+</p>
 
-### Accepted Papers
+</div>
+</div>
 
-We have accepted the following papers for FMAS.
+<div class="columns large-5" >
+<div markdown="1">
 
-<style> .paper-title {font-style: italic; } </style>
-<style> .paper-details{ list-style-type: none; } </style>
-
-* <span class="paper-title">A Temporal Logic Semantics for Teleo-Reactive Procedures</span>
-<ul class="paper-details">
-<li> <b>Authors:</b> Keith Clark, <a href="http://brijeshdongol.github.io">Brijesh Dongol</a>, and Peter Robinson. </li>
-<li> <b>Abstract: </b>Teleo-Reactive (TR) procedures are a robotic agent programming language proposed by Nils Nilsson. Each parameterised procedure comprises a sequence of guarded action rules where the guards of later rules are sub-goals of the guard of the first rule. We informally describe the evaluation semantics of a TR procedure call. We then formalise the concept of a TR procedure call evaluation by expressing key properties in LTL. Finally we show how the LTL statements can be used to prove key properties of a simple TR program making use of assumptions about the correspondence between the agent’s Belief Store percept facts and properties of the perceived world, and between the agent’s actions and environment change.
-</li>
-</ul>
-
-
-
-* <span class="paper-title">Verification of Fair Controllers for Urban Traffic Manoeuvres at Intersections</span>
-<ul class="paper-details">
-
-<li> <b>Authors:</b> <a href="https://uol.de/csd/persons/maike-schwammberger-msc/">Maike Schwammberger</a>, and <a href="https://uol.de/csd/persons/christopher-bischopink-msc/">Christopher Bischopink</a> </li>
-
-<li>
-<b>Abstract: </b>Nowadays, autonomous crossing manoeuvres at intersections are especially challenging. In related work, a crossing controller for provably safe autonomous urban traffic manoeuvres was introduced. We extend this controller by a decentralised scheduling mechanism that ensures fair behaviour of the controller and also guarantees bounded liveness. We verify the correctness of our extension by an implementation and analysis with UPPAAL Stratego.
-</li>
-
-</ul>
-
-* <span class="paper-title">CriSGen: Constraint-based Generation of Critical Scenarios for Autonomous Vehicles</span>
-<ul class="paper-details">
-<li> <b>Authors:</b> Andreas Nonnengart, Matthias Klusch, and Christian Mueller </li>
-<li> <b>Abstract: </b>Ensuring pedestrian-safety is paramount to the acceptance
-and success of autonomous cars. The scenario-based training and testing
-of such self-driving vehicles in virtual driving simulation environments
-increasingly gained attention in the past years. Key challenge is the automated generation of critical traffic scenarios which usually are rare in
-real-world traffic, while computing and testing all possible scenarios is
-infeasible in practice. In this paper, we present a formal method-based
-approach CriSGen for an automated and complete generation of critical
-traffic scenarios for virtual training of self-driving cars. These scenarios
-are determined as close variants of given but uncritical and formally abstracted scenarios via reasoning on their non-linear arithmetic constraint formulas, such that the original maneuver of the self-driving car in them will not be pedestrian-safe anymore, enforcing it to further adapt the behavior during training. </li>
-</ul>
-
-* <span class="paper-title">Towards a Mission Definition, Verification and Validation Toolchain</span>
-<ul class="paper-details">
-<li> <b>Authors:</b> Louis Viard, Laurent Ciarletta and Pierre-Etienne Moreau </li>
-<li> <b>Abstract: </b>Safe operation of Cyber-Physical Systems such as Unmanned Aircraft Systems requires guarantees not only on the system, but also on the mission. Following approaches that are used to produce robust Cyber-Physical Controllers, we present the architecture of a mission definition, verification and validation toolchain. We conclude by reporting on the current state of the authors' implementation of this framework.</li>
-</ul>
-
-* <span class="paper-title">A Model Checking Agent-Based Architecture for Representing the Rules of the Road on Autonomous Vehicles </span>
-<ul class="paper-details">
-<li> <b>Authors:</b> <a href="https://sites.google.com/view/gleifer">Gleifer Alves</a>, <a href="http://www.csc.liv.ac.uk/~lad">Louise Dennis</a> and <a href="http://www.csc.liv.ac.uk/~michael">Michael Fisher</a> </li>
-<li> <b>Abstract: </b>The design of autonomous vehicles includes obstacle detection and avoidance, route planning, speed control, etc. However, there is a gap considering how the rules of the road should be represented in an autonomous vehicle. Additionally, it is necessary to understand the behaviour of autonomous systems in order to check whether or not they work according to the rules of the road. Here, we propose a model checking agent-based architecture to embed the rules of the road in an agent representing the behaviour of an autonomous vehicle. </li>
-</ul>
-
-
-
-## Submission Information
-
-There are two categories of submission:
-
-* **Short** papers -- **6 pages**
-* **Long** papers -- **15 pages**
-
-Topics of interest include (but are not limited to):
-
-* Experience reports/case studies on applying formal methods to autonomous and/or robotic systems
-* Novel formal methods that can be applied to autonomous and/or robotic systems
-* The modification of existing formal methods to suit autonomous and/or robotic systems
-* Future directions for formal methods for autonomous and/or robotic systems
-
-Submission will be via [easychair](https://easychair.org/conferences/?conf=fmas2019), in LNCS format.
-Details about the **LNCS format** can be found on the [Springer Authors Guidelines page](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
-
-<article class="row">
-  <section class="columns large-8" markdown="1">
-Each submission will receive at least three, single-blind reviews. If a paper is accepted, at least one of the authors must attend the workshop to
-present their work. Revised selected papers will be published in the upcoming FM 2019 Workshops [Lecture Notes in Computer Science](http://www.springer.com/lncs) volume. This will involve authors editing their papers based on the reviews and feedback at the workshop, which will then be reviewed again. The deadline for the LNCS volume is yet to be announced.
-</section>
-  <section class="columns large-4" markdown="1">
-![LNCS Logo]({{site.images}}logos/LNCS-Logo_4c.png){:width="360px"}
-</section>
-</article>
 
 ## Important Dates
 
-* **Submission: ~~30th June  2019~~ ~~7th of July 2019~~ ([AOE](https://www.timeanddate.com/time/zones/aoe))**
-* Notification: ~~31st July 2019~~ ~~7th of August 2019~~
-* Final Version due: ~~1st September 2019~~
-* Workshop: ~~11th of October 2019~~ (at [Formal Methods 2019](http://formalmethods2019.inesctec.pt/))
+<ul>
+<li>Submission Deadline: 15th February 2020</li>
+<li>Paper Notification: 15th March 2020</li>
+<li>Camera-ready Deadline:  8th April 2020</li>
+<li>Workshop: 8th or 9th June 2020</li>
+</ul>
 
-## Chairs
+## Organisers
 
-<article class="row">
-  <section class="columns large-4" markdown="1">
- [Marie Farrell](http://cgi.csc.liv.ac.uk/~marie/), University of Liverpool, UK
-</section>
-  <section class="columns large-4" markdown="1">
-  [Michael Fisher](https://cgi.csc.liv.ac.uk/~michael/), University of Liverpool, UK
-</section>
-  <section class="columns large-4" markdown="1">
-  [Matt Luckcuck](https://cgi.csc.liv.ac.uk/~mattlck/), University of Liverpool, UK
-</section>
-</article>
+<ul>
+  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Liverpool (UK)</li>
+  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Liverpool (UK)</li>
+  <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
+  <li>Claudio Menghi, University of Luxembourg (Luxembourg)</li>
+  <li>Daniela Briola, University of Milano-Bicocca (Italy)</li>
+</ul>
 
 ## Program Committee
 
-* Mikael Asplund, Linkoping University
-* Matthew Bradbury. University of Warwick
-* Jérémie Guiochet, University of Toulouse
-* Rob Hierons, University of Sheffield
-* Taylor Johnson, University of Illinois at Urbana-Champaign
-* Bruno Lacerda, Oxford University
-* Sven Linker, University of Liverpool
-* Tiziana Margaria, University of Limerick
-* Dominique Mery, Université de Lorraine
-* Alice Miller, University of Glasgow
-* Alvaro Miyazawa, University of York
-* Kristin Rozier, University of Iowa
-* Marija Slavkovik, University of Bergen
-* James Stovold, Swansea University
-* Silvia Lizeth Tapia Tarifa, University of Oslo
-* Hao Wu, Maynooth University
+<ul>
+<li>under construction</li>
+</ul>
+
+</div>
+</div>
