@@ -114,10 +114,10 @@ Submission link: TBD
 ## Important Dates
 
 <ul>
-<li>Submission Deadline: 2nd February 2020</li>
-<li>Paper Notification: 5th March 2020</li>
-<li>Camera Ready: 8th April 2020</li>
-<li>Workshop: 8th or 9th May 2020</li>
+<li>Submission Deadline: 15th February 2020</li>
+<li>Paper Notification: 15th March 2020</li>
+<li>Camera-ready Deadline:  8th April 2020</li>
+<li>Workshop: 8th or 9th June 2020</li>
 </ul>
 
 ## Organisers
