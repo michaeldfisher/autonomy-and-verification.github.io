@@ -90,7 +90,9 @@ Some preliminary ideas that came from the discussions were:
 - a RAIN ‘principles’ document would be beneficial, to help frame thinking when considering robotic and autonomous systems, and;
 - clear presentations of concrete problems from industry are very useful for the supply chain.
 
-A follow up report, summarising the interesting discussions from the workshop, is available for download: <a href="{{site.url}}/files/fnrc/Scoping-Workshop-Report.pdf" download="" > <button type="button" > Report </button></a>.
+A follow up report, summarising the interesting discussions from the workshop, is available for download: <a href="https://intranet.csc.liv.ac.uk/research/techreports/tr2020/ulcs-20-001.pdf" download="" > <button type="button" > Report </button></a>.
+This report can be cited as:
+M. Luckcuck, “Workshop Report: Scoping Certifiable Autonomous Nuclear Robotics” University of Liverpool, UK. ULCS-20-001. Jan, 2020. [Online]. https://intranet.csc.liv.ac.uk/research/techreports/tr2020/ulcs-20-001.pdf
 
 
 ## Organisers
