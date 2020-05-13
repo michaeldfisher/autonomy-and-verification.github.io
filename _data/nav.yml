@@ -9,9 +9,9 @@
   - subtitle: "Events"
     subhref: "/events"
   - subtitle: "Projects"
-    subhref: "/videos"
-  - subtitle: "Videos"
     subhref: "/projects"
+  - subtitle: "Videos"
+    subhref: "/videos"
   - subtitle: "Home Robot Lab"
     subhref: "/hrl"
 
