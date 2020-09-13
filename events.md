@@ -8,14 +8,15 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
 <article class="row">
 
 <section class="columns large-7" >
-<h2>Upcoming Events</h2>
+<h2>Upcoming Events </h2>
   <ul>
     {% for event in site.events  %}
       {% if event.date >= site.time %}
 
         {% if event.externalURL and event.externalURL != "" and event.externalURL != nil %}
-        [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
-
+        </li>
+          [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
+        </li>
         {% elsif event.series != true %}
         <li>
           [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
@@ -33,8 +34,9 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
   {% if event.date < site.time %}
 
     {% if event.externalURL and event.externalURL != "" and event.externalURL != nil %}
-    [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
-
+    <li>
+      [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
+    </li>
     {% elsif event.series != true %}
     <li>
       [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
