@@ -49,9 +49,6 @@ CurrentMembers:
 AffiliatedMembers:
   - Institute: "Virtual Engineering Centre"
     MembersList:
-      - name : "Dr Charles Patchett"
-        website: "http://www.virtualengineeringcentre.com/about/team/dr-charles-patchett"
-
       - name : "Dr Konstantin Vikhorev"
         website : "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
 
@@ -88,3 +85,6 @@ PreviousMembers:
 
   - name : "Dr Maryam Kamali"
     orcid : "https://orcid.org/0000-0002-2789-6914"
+    
+  - name : "Dr Charles Patchett"
+    website: "http://www.virtualengineeringcentre.com/about/team/dr-charles-patchett"
