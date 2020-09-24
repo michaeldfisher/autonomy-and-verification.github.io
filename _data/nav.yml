@@ -12,8 +12,6 @@
     subhref: "/projects"
   - subtitle: "Videos"
     subhref: "/videos"
-  - subtitle: "Home Robot Lab"
-    subhref: "/hrl"
 
 - title: "Publications"
   href: "/publications"
