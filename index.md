@@ -11,12 +11,7 @@ title: Home
 The Autonomy and Verification Group focusses on autonomous systems and their verification. Applications include unmanned aircraft, robotics and distributed sensor systems. The Group is distributed across several universities, including The University of Manchester, University of Liverpool, Liverpool John Moores University, and Lancaster University Leipzig.
 
 The group is led by [Professor Michael Fisher](https://web.cs.manchester.ac.uk/~michael/).
-<!---
-<br/>
-<p style="text-align: center;">
-<img src="{{site.url}}/images/ashton-home.png" alt="Picture of the Ashton Building, University of Liverpool, UK" title="Picture of the Ashton Building, University of Liverpool, UK"/>
-</p>
---->
+
 
 </div>
 </section>
