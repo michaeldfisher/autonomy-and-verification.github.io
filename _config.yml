@@ -1,10 +1,10 @@
 # Site settings
-name: Autonomy and Verification Laboratory
+name: Autonomy and Verification Group
 email:
-author: Autonomy and Verification Laboratory
+author: Autonomy and Verification Group
 
 keywords: autonomous systems, robotics, artificial intelligence, formal verification, sensor systems, programming, formal modelling
-description: The Autonomy and Verification Laboratory at the University of Liverpool, UK
+description: The Autonomy and Verification Group  is distributed across several universities, including The University of Manchester, University of Liverpool, Liverpool John Moores University, and Lancaster University Leipzig
 
 # Only use this if you are serving your site via Github Pages
 #github:
@@ -12,8 +12,8 @@ description: The Autonomy and Verification Laboratory at the University of Liver
 #url:  "http://localhost:4000"
 #images: "http://localhost:4000/images/"
 
-url: "https://autonomy-and-verification-uol.github.io"
-images: "https://autonomy-and-verification-uol.github.io/images/"
+url: "https://autonomy-and-verification.github.io"
+images: "https://autonomy-and-verification.github.io/images/"
 
 
 header: no
@@ -49,7 +49,7 @@ collections:
 permalink: /blog/:year/:title
 
 address:
-  - line: University of Liverpool Ashton Building Ashton Street Liverpool L69 3BX United Kingdom
+  - line: 
 
 #Google API key
 google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
@@ -59,7 +59,7 @@ google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
 # Twitter Cards
 twitter_user: LivUni_AVLab
 twitter_card: true
-twitter_image: https://autonomy-and-verification-uol.github.io/images/ashton-home.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: https://autonomy-and-verification.github.io/images/ashton-home.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Usernames for things
 researchgate_username: Autonomy-and-Verification-Lab-Michael-Fisher
