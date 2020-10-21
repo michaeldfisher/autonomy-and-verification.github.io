@@ -4,7 +4,7 @@ title: "Robotics and Artificial Intelligence Hubs"
 
 ---
 
-The Autonomy and Verification Laboratory is involved in three Robotics and Artificial Intelligence hubs. Each hub focusses on autonomous robotics in a different hazardous environment:
+The Autonomy and Verification Network is involved in three Robotics and Artificial Intelligence hubs. Each hub focusses on autonomous robotics in a different hazardous environment:
 
 * [RAIN Hub](http://rainhub.org.uk/) for nuclear robotics,
 * [ORCA Hub](https://orcahub.org/) for offshore robotics, and
