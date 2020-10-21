@@ -3,7 +3,7 @@ layout: page
 title: "Videos"
 ---
 
-This page lists all relevant videos made by members of our group, such as videos of talks, demonstrations, and tutorials.
+This page lists all relevant videos made by members of our network, such as videos of talks, demonstrations, and tutorials.
 
 ## RAIN hub webinar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wORpBB-lCHo" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
