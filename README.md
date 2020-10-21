@@ -1,4 +1,4 @@
-# Autonomy and Verification Group website
+# Autonomy and Verification Network website
 
 ## Contact and Theme
 
@@ -6,7 +6,7 @@ This website has been built by [Rafael Cardoso](https://rafaelcaue.github.io/) a
 
 We are using the Jekyll theme [Slim Pickins](https://github.com/chrisanthropic/slim-pickins-jekyll-theme) as our base theme.
 
-## Editing the Group's Website
+## Editing the Network's Website
 
 This website is built using [Jekyll](https://jekyllrb.com/), which compiles the files in this repository to produce a static HTML website.
 
