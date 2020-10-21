@@ -3,7 +3,7 @@ layout: page
 title: Events
 ---
 
-Upcoming Workshops, Tutorials, and other events run by [Members](/members) of the Autonomy and Verification Lab.
+Upcoming Workshops, Tutorials, and other events run by [Members](/members) of the Autonomy and Verification Network.
 
 <article class="row">
 
